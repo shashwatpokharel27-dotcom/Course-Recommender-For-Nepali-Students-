@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nepal Course Recommender Pro</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>AI Course Recommender 🎓</h1>
+            <p>Find the perfect degree in Nepal based on your interests, target job, skills, and eligibility.</p>
+        </header>
+
+        <main class="main-content">
+            <div class="form-card">
+                <form id="recommenderForm">
+                    <div class="input-row">
+                        <div class="input-group">
+                            <label for="stream">+2 Stream</label>
+                            <select id="stream" required>
+                                <option value="" disabled selected>Select Stream</option>
+                                <option value="Science (Bio)">Science (Bio)</option>
+                                <option value="Science (Physical)">Science (Physical)</option>
+                                <option value="Management">Management</option>
+                                <option value="Humanities">Humanities</option>
+                                <option value="Law">Law</option>
+                                <option value="Education">Education</option>
+                                <option value="Technical">Technical</option>
+                            </select>
+                        </div>
+
+                        <div class="input-group">
+                            <label for="gpa">Overall GPA</label>
+                            <input
+                                type="number"
+                                id="gpa"
+                                step="0.01"
+                                min="0.8"
+                                max="4.0"
+                                placeholder="e.g. 3.2"
+                                required
+                            >
+                        </div>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="interest">Interest Area</label>
+                        <p class="meta-info">Choose or type the field you are most interested in</p>
+                        <div id="interest-chips" class="chip-container"></div>
+                        <input
+                            type="text"
+                            id="interest"
+                            placeholder="e.g. Technology,Tourism,Law,Finance"
+                            autocomplete="off"
+                            required
+                        >
+                    </div>
+
+                    <div class="input-group">
+                        <label for="goal">Target Job</label>
+                        <p class="meta-info">Choose or type the job you want in the future</p>
+                        <div id="goal-chips" class="chip-container"></div>
+                        <input
+                            type="text"
+                            id="goal"
+                            placeholder="e.g. Lawyer, Nurse, Accountant,Social Worker"
+                            autocomplete="off"
+                            required
+                        >
+                    </div>
+
+                    <div class="input-group">
+                        <label for="skills">Skills You Have</label>
+                        <p class="meta-info">Choose or type your current strengths and abilities</p>
+                        <div id="skills-chips" class="chip-container"></div>
+                        <input
+                            type="text"
+                            id="skills"
+                            placeholder="e.g. Patient care, Chemistry,Management, Leadership"
+                            autocomplete="off"
+                            required
+                        >
+                    </div>
+
+                    <div class="input-group">
+                        <label for="budget">Total Budget (NPR)</label>
+                        <input
+                            type="number"
+                            id="budget"
+                            placeholder="e.g. 800000"
+                            required
+                        >
+                    </div>
+
+                    <button type="submit" id="submitBtn">Generate AI Recommendations</button>
+                </form>
+            </div>
+
+            <div class="results-container">
+                <div id="loading" class="hidden">
+                    <div class="spinner"></div>
+                    <p>Analyzing your profile...</p>
+                </div>
+
+                <div id="error-message" class="hidden error-box"></div>
+
+                <div id="results" class="hidden">
+                    <h2>Top Matches</h2>
+                    <p id="eligibility-info" class="meta-info"></p>
+                    <div id="cards-wrapper" class="cards-grid"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
