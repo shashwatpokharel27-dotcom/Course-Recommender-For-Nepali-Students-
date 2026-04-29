@@ -1,0 +1,193 @@
+Interest,Career Goal,Skills,Course
+IT,Software Developer,"Coding, Logic, Problem Solving",BCA
+Computers,Web Developer,"Creativity, Coding, Basic Math",BCA
+Web Development,IT Support Engineer,"Coding, Creativity, Basic Math",BCA
+Computers,Web Developer,"Basic Math, Creativity, Coding",BCA
+Web Development,Web Developer,"Creativity, Basic Math, Debugging",BCA
+Advanced IT,Software Developer,"Coding, Logic, Problem Solving, Algorithms",BCA
+Computers,Full Stack Developer,"Creativity, Coding, Basic Math, Databases",BCA
+Web Development,IT Support Engineer,"Coding, Creativity, Basic Math, Networking",BCA
+Computers,Mobile App Developer,"Basic Math, Creativity, Coding, UI/UX",BCA
+Web Development,Web Developer,"Creativity, Basic Math, Debugging, JavaScript",BCA
+Data Analytics,Data Analyst,"Coding, Logic, Problem Solving, SQL",BCA
+Computers,Web Developer,"Creativity, Coding, Basic Math, HTML/CSS",BCA
+Web Development,IT Support Engineer,"Coding, Creativity, Basic Math, Troubleshooting",BCA
+Computers,Software Tester,"Basic Math, Creativity, Coding, Testing Tools",BCA
+Web Development,Web Developer,"Creativity, Basic Math, Debugging, SEO",BCA
+AI/ML,AI Engineer,"Coding, Logic, Problem Solving, Machine Learning",BCA
+Computers,Web Developer,"Creativity, Coding, Basic Math, Frameworks",BCA
+Web Development,IT Support Engineer,"Coding, Creativity, Basic Math, Cloud",BCA
+Computers,Backend Developer,"Basic Math, Creativity, Coding, APIs",BCA
+Web Development,Web Developer,"Creativity, Basic Math, Debugging, Responsive Design",BCA
+Robotics,Data Scientist,"Physics, Mathematics, Design Thinking, Programming",Mechanical Engineering
+Automobiles,Automotive Engineer,"Thermodynamics, CAD, Problem Solving, Materials",Mechanical Engineering
+Manufacturing,Production Manager,"Materials Science, Engineering Drawing, Quality Control, Lean",Mechanical Engineering
+Robotics,Robotics Engineer,"Mechatronics, Programming, Mechanics, Sensors",Mechanical Engineering
+Energy Systems,HVAC Engineer,"Fluid Mechanics, Energy Efficiency, Project Management, Sustainability",Mechanical Engineering
+Advanced Machines,Mechanical Engineer,"Physics, Mathematics, Design Thinking, Simulation",Mechanical Engineering
+Automobiles,Automotive Engineer,"Thermodynamics, CAD, Problem Solving, Electric Vehicles",Mechanical Engineering
+Manufacturing,Production Manager,"Materials Science, Engineering Drawing, Quality Control, Automation",Mechanical Engineering
+Robotics,Robotics Engineer,"Mechatronics, Programming, Mechanics, AI Integration",Mechanical Engineering
+Energy Systems,HVAC Engineer,"Fluid Mechanics, Energy Efficiency, Project Management, Renewable",Mechanical Engineering
+Aerospace,Aerospace Engineer,"Physics, Mathematics, Design Thinking, Aerodynamics",Mechanical Engineering
+Automobiles,Automotive Engineer,"Thermodynamics, CAD, Problem Solving, Safety Standards",Mechanical Engineering
+Manufacturing,Production Manager,"Materials Science, Engineering Drawing, Quality Control, Supply Chain",Mechanical Engineering
+Robotics,Robotics Engineer,"Mechatronics, Programming, Mechanics, Control Systems",Mechanical Engineering
+Energy Systems,HVAC Engineer,"Fluid Mechanics, Energy Efficiency, Project Management, Green Tech",Mechanical Engineering
+Patient Care,Registered Nurse,"Biology, Empathy, Communication, Patient Monitoring",BSc Nursing
+Healthcare,Clinical Nurse,"Anatomy, Patient Monitoring, Compassion, Medication Admin",BSc Nursing
+Community Health,Public Health Nurse,"Health Education, Epidemiology, Teamwork, Prevention",BSc Nursing
+Critical Care,ICU Nurse,"Emergency Response, Medical Knowledge, Stress Management, Ventilator Care",BSc Nursing
+Pediatrics,Pediatric Nurse,"Child Psychology, Vaccination Knowledge, Caregiving, Family Support",BSc Nursing
+Advanced Healthcare,Registered Nurse,"Biology, Empathy, Communication, Critical Thinking",BSc Nursing
+Healthcare,Clinical Nurse,"Anatomy, Patient Monitoring, Compassion, Wound Care",BSc Nursing
+Community Health,Public Health Nurse,"Health Education, Epidemiology, Teamwork, Data Analysis",BSc Nursing
+Critical Care,ICU Nurse,"Emergency Response, Medical Knowledge, Stress Management, Team Coordination",BSc Nursing
+Pediatrics,Pediatric Nurse,"Child Psychology, Vaccination Knowledge, Caregiving, Developmental Assessment",BSc Nursing
+Medicines,Pharmacist,"Chemistry, Pharmacology, Attention to Detail, Dispensing",BPharmacy
+Drug Development,Pharmaceutical Researcher,"Organic Chemistry, Lab Skills, Research Methodology, Clinical Trials",BPharmacy
+Healthcare Products,Medical Representative,"Product Knowledge, Sales, Biology, Communication",BPharmacy
+Quality Control,Quality Assurance Analyst,"Analytical Chemistry, Regulatory Knowledge, Precision, GMP",BPharmacy
+Hospital Pharmacy,Hospital Pharmacist,"Dispensing, Patient Counseling, Drug Interactions, Inventory",BPharmacy
+Advanced Pharma,Pharmacist,"Chemistry, Pharmacology, Attention to Detail, Regulatory Affairs",BPharmacy
+Drug Development,Pharmaceutical Researcher,"Organic Chemistry, Lab Skills, Research Methodology, Biopharma",BPharmacy
+Healthcare Products,Medical Representative,"Product Knowledge, Sales, Biology, Market Analysis",BPharmacy
+Quality Control,Quality Assurance Analyst,"Analytical Chemistry, Regulatory Knowledge, Precision, Validation",BPharmacy
+Hospital Pharmacy,Hospital Pharmacist,"Dispensing, Patient Counseling, Drug Interactions, Patient Safety",BPharmacy
+Electronics,Electrical Engineer,"Circuit Design, Physics, Mathematics, Electronics",Electrical Engineering
+Power Systems,Power Engineer,"Electrical Machines, Power Distribution, Safety Standards, Grid Management",Electrical Engineering
+Renewable Energy,Renewable Energy Specialist,"Solar/Wind Technology, Sustainability, Project Planning, Energy Storage",Electrical Engineering
+Automation,Control Systems Engineer,"PLC, Programming, Instrumentation, SCADA",Electrical Engineering
+Telecommunications,Telecom Engineer,"Signal Processing, Networking, Electronics, 5G",Electrical Engineering
+Advanced Electronics,Electrical Engineer,"Circuit Design, Physics, Mathematics, Embedded Systems",Electrical Engineering
+Power Systems,Power Engineer,"Electrical Machines, Power Distribution, Safety Standards, Smart Grid",Electrical Engineering
+Renewable Energy,Renewable Energy Specialist,"Solar/Wind Technology, Sustainability, Project Planning, Policy",Electrical Engineering
+Automation,Control Systems Engineer,"PLC, Programming, Instrumentation, Robotics",Electrical Engineering
+Telecommunications,Telecom Engineer,"Signal Processing, Networking, Electronics, Fiber Optics",Electrical Engineering
+Construction,Civil Engineer,"Structural Analysis, Surveying, Project Management, BIM",Civil Engineering
+Infrastructure,Site Engineer,"Geotechnical Engineering, Materials, Planning, Site Supervision",Civil Engineering
+Urban Planning,Urban Developer,"Environmental Engineering, Design Software, Regulations, Smart Cities",Civil Engineering
+Transportation,Transportation Engineer,"Traffic Analysis, Highway Design, Logistics, Public Transit",Civil Engineering
+Water Resources,Hydraulic Engineer,"Fluid Dynamics, Irrigation, Sustainability, Water Treatment",Civil Engineering
+Advanced Construction,Civil Engineer,"Structural Analysis, Surveying, Project Management, Earthquake Resistant",Civil Engineering
+Infrastructure,Site Engineer,"Geotechnical Engineering, Materials, Planning, Cost Estimation",Civil Engineering
+Urban Planning,Urban Developer,"Environmental Engineering, Design Software, Regulations, Sustainable Development",Civil Engineering
+Transportation,Transportation Engineer,"Traffic Analysis, Highway Design, Logistics, GIS",Civil Engineering
+Water Resources,Hydraulic Engineer,"Fluid Dynamics, Irrigation, Sustainability, Flood Management",Civil Engineering
+Business Management,Business Manager,"Leadership, Finance, Marketing, Strategy",BBM
+Entrepreneurship,Entrepreneur,"Innovation, Strategy, Risk Management, Startup",BBM
+Operations,Operations Manager,"Supply Chain, Logistics, Decision Making, Optimization",BBM
+Human Resources,HR Manager,"Recruitment, Employee Relations, Organizational Behavior, Training",BBM
+International Business,Business Analyst,"Global Markets, Economics, Communication, Analytics",BBM
+Advanced Business,Business Manager,"Leadership, Finance, Marketing, Digital Transformation",BBM
+Entrepreneurship,Entrepreneur,"Innovation, Strategy, Risk Management, Funding",BBM
+Operations,Operations Manager,"Supply Chain, Logistics, Decision Making, ERP",BBM
+Human Resources,HR Manager,"Recruitment, Employee Relations, Organizational Behavior, Diversity",BBM
+International Business,Business Analyst,"Global Markets, Economics, Communication, Market Research",BBM
+Journalism,Journalist,"Writing, Research, Communication, Ethics",BJMC
+Media,News Reporter,"Interviewing, Media Ethics, Storytelling, Digital Journalism",BJMC
+Advertising,Copywriter,"Creativity, Persuasion, Digital Media, Campaign",BJMC
+Public Relations,PR Specialist,"Media Relations, Crisis Management, Networking, Social Media",BJMC
+Broadcasting,Radio/TV Anchor,"Public Speaking, Video Editing, Current Affairs, Production",BJMC
+Advanced Media,Journalist,"Writing, Research, Communication, Investigative",BJMC
+Media,News Reporter,"Interviewing, Media Ethics, Storytelling, Data Journalism",BJMC
+Advertising,Copywriter,"Creativity, Persuasion, Digital Media, Content Strategy",BJMC
+Public Relations,PR Specialist,"Media Relations, Crisis Management, Networking, Branding",BJMC
+Broadcasting,Radio/TV Anchor,"Public Speaking, Video Editing, Current Affairs, Live Streaming",BJMC
+Human Behavior,Psychologist,"Counseling, Research Methods, Empathy, Assessment",BA Psychology
+Mental Health,Counselor,"Clinical Assessment, Therapy Techniques, Listening, Ethics",BA Psychology
+Organizational,HR Psychologist,"Industrial Psychology, Testing, Motivation, Workplace",BA Psychology
+Child Development,Child Psychologist,"Developmental Psychology, Observation, Patience, Family",BA Psychology
+Forensic,Forensic Psychologist,"Criminology, Legal Knowledge, Analytical, Court",BA Psychology
+Advanced Psychology,Psychologist,"Counseling, Research Methods, Empathy, Cognitive Behavioral",BA Psychology
+Mental Health,Counselor,"Clinical Assessment, Therapy Techniques, Listening, Group Therapy",BA Psychology
+Organizational,HR Psychologist,"Industrial Psychology, Testing, Motivation, Organizational Development",BA Psychology
+Child Development,Child Psychologist,"Developmental Psychology, Observation, Patience, Special Needs",BA Psychology
+Forensic,Forensic Psychologist,"Criminology, Legal Knowledge, Analytical, Rehabilitation",BA Psychology
+Finance,Financial Analyst,"Accounting, Economics, Analytical Skills, Modeling",BBS
+Marketing,Marketing Executive,"Consumer Behavior, Advertising, Market Research, Digital",BBS
+Management,Business Administrator,"Strategic Planning, Leadership, Communication, Operations",BBS
+Banking,Banker,"Financial Services, Risk Assessment, Customer Service, Compliance",BBS
+Entrepreneurship,Startup Founder,"Business Planning, Innovation, Networking, Scaling",BBS
+Advanced Finance,Financial Analyst,"Accounting, Economics, Analytical Skills, Investment",BBS
+Marketing,Marketing Executive,"Consumer Behavior, Advertising, Market Research, Analytics",BBS
+Management,Business Administrator,"Strategic Planning, Leadership, Communication, Change Management",BBS
+Banking,Banker,"Financial Services, Risk Assessment, Customer Service, FinTech",BBS
+Entrepreneurship,Startup Founder,"Business Planning, Innovation, Networking, Venture Capital",BBS
+Medicine,Doctor,"Anatomy, Physiology, Diagnostics, Patient Care",MBBS
+Surgery,Surgeon,"Surgical Skills, Decision Making under Pressure, Biology, Ethics",MBBS
+General Practice,General Physician,"Patient Care, Ethics, Medical Knowledge, Diagnostics",MBBS
+Pediatrics,Pediatrician,"Child Health, Vaccination, Compassion, Growth Monitoring",MBBS
+Cardiology,Cardiologist,"Heart Diseases, Advanced Diagnostics, Research, Intervention",MBBS
+Advanced Medicine,Doctor,"Anatomy, Physiology, Diagnostics, Emergency",MBBS
+Surgery,Surgeon,"Surgical Skills, Decision Making under Pressure, Biology, Minimally Invasive",MBBS
+General Practice,General Physician,"Patient Care, Ethics, Medical Knowledge, Preventive",MBBS
+Pediatrics,Pediatrician,"Child Health, Vaccination, Compassion, Neonatology",MBBS
+Cardiology,Cardiologist,"Heart Diseases, Advanced Diagnostics, Research, Telemedicine",MBBS
+IT Systems,IT Specialist,"Networking, Databases, Troubleshooting, Security",BIT
+Software,Software Engineer,"Programming, Algorithms, Software Development Life Cycle, Agile",BIT
+Cybersecurity,Cybersecurity Analyst,"Security Protocols, Ethical Hacking, Risk Management, Compliance",BIT
+Data,Data Analyst,"Data Management, SQL, Analytics, Visualization",BIT
+Web Tech,Web Developer,"HTML/CSS/JS, Server Management, Creativity, Frameworks",BIT
+Advanced IT,IT Specialist,"Networking, Databases, Troubleshooting, Cloud Computing",BIT
+Software,Software Engineer,"Programming, Algorithms, Software Development Life Cycle, DevOps",BIT
+Cybersecurity,Cybersecurity Analyst,"Security Protocols, Ethical Hacking, Risk Management, Forensics",BIT
+Data,Data Analyst,"Data Management, SQL, Analytics, Big Data",BIT
+Web Tech,Web Developer,"HTML/CSS/JS, Server Management, Creativity, API",BIT
+Business Administration,Business Executive,"Management Principles, Finance, HR, Strategy",BBA
+Marketing,Marketing Manager,"Branding, Digital Marketing, Sales, Analytics",BBA
+Finance,Finance Manager,"Investment, Accounting, Financial Modeling, Risk",BBA
+Human Resources,HR Specialist,"Talent Management, Labor Laws, Training, Recruitment",BBA
+International Business,Export Manager,"Global Trade, Cross Cultural, Strategy, Logistics",BBA
+Advanced Business,Business Executive,"Management Principles, Finance, HR, Leadership",BBA
+Marketing,Marketing Manager,"Branding, Digital Marketing, Sales, Content",BBA
+Finance,Finance Manager,"Investment, Accounting, Financial Modeling, FinTech",BBA
+Human Resources,HR Specialist,"Talent Management, Labor Laws, Training, Performance",BBA
+International Business,Export Manager,"Global Trade, Cross Cultural, Strategy, E-commerce",BBA
+Hospitality,Hotel Manager,"Customer Service, Operations, Leadership, Revenue",BHM
+Food Service,Chef / F&B Manager,"Culinary Skills, Menu Planning, Food Safety, Cost Control",BHM
+Tourism,Tourism Executive,"Event Management, Guest Relations, Marketing, Destination",BHM
+Housekeeping,Housekeeping Manager,"Facility Management, Team Coordination, Standards, Sustainability",BHM
+Front Office,Front Desk Manager,"Reservation Systems, Communication, Problem Solving, Guest Experience",BHM
+Advanced Hospitality,Hotel Manager,"Customer Service, Operations, Leadership, Luxury",BHM
+Food Service,Chef / F&B Manager,"Culinary Skills, Menu Planning, Food Safety, Innovation",BHM
+Tourism,Tourism Executive,"Event Management, Guest Relations, Marketing, Eco-Tourism",BHM
+Housekeeping,Housekeeping Manager,"Facility Management, Team Coordination, Standards, Hygiene",BHM
+Front Office,Front Desk Manager,"Reservation Systems, Communication, Problem Solving, CRM",BHM
+Hardware,Computer Engineer,"Computer Architecture, Electronics, Hardware Design, Embedded",Computer Engineering
+Software,Software Developer,"Coding, Algorithms, Embedded Systems, IoT",Computer Engineering
+AI/ML,AI Engineer,"Machine Learning, Data Science, Programming, Deep Learning",Computer Engineering
+Networking,Network Engineer,"Computer Networks, Security, Infrastructure, Cloud",Computer Engineering
+Robotics,Robotics Engineer,"Automation, Sensors, Control Systems, Vision",Computer Engineering
+Advanced Hardware,Computer Engineer,"Computer Architecture, Electronics, Hardware Design, Quantum",Computer Engineering
+Software,Software Developer,"Coding, Algorithms, Embedded Systems, Firmware",Computer Engineering
+AI/ML,AI Engineer,"Machine Learning, Data Science, Programming, Ethics",Computer Engineering
+Networking,Network Engineer,"Computer Networks, Security, Infrastructure, 5G",Computer Engineering
+Robotics,Robotics Engineer,"Automation, Sensors, Control Systems, Humanoid",Computer Engineering
+Society,Sociologist,"Social Research, Analysis, Theory, Qualitative",BA Sociology
+Social Work,Social Worker,"Community Development, Advocacy, Empathy, Case Management",BA Sociology
+Urban Studies,Urban Planner,"Demography, Policy Making, Field Work, GIS",BA Sociology
+Criminology,Criminologist,"Crime Patterns, Rehabilitation, Research, Justice",BA Sociology
+Gender Studies,Gender Specialist,"Social Inequality, Activism, Analytical, Policy",BA Sociology
+Advanced Sociology,Sociologist,"Social Research, Analysis, Theory, Quantitative",BA Sociology
+Social Work,Social Worker,"Community Development, Advocacy, Empathy, NGO",BA Sociology
+Urban Studies,Urban Planner,"Demography, Policy Making, Field Work, Sustainable Cities",BA Sociology
+Criminology,Criminologist,"Crime Patterns, Rehabilitation, Research, Cyber Crime",BA Sociology
+Gender Studies,Gender Specialist,"Social Inequality, Activism, Analytical, Inclusion",BA Sociology
+Computer Science,Software Engineer,"Programming, Data Structures, Algorithms, OOP",BSc CSIT
+Information Technology,IT Consultant,"Systems Analysis, Databases, Project Management, ERP",BSc CSIT
+Data Science,Data Scientist,"Statistics, Machine Learning, Python/R, Big Data",BSc CSIT
+Cyber Security,Security Expert,"Cryptography, Network Security, Forensics, Ethical Hacking",BSc CSIT
+Web Development,Full Stack Developer,"Frontend, Backend, Databases, Frameworks",BSc CSIT
+Advanced CS,Software Engineer,"Programming, Data Structures, Algorithms, Cloud",BSc CSIT
+Information Technology,IT Consultant,"Systems Analysis, Databases, Project Management, AI",BSc CSIT
+Data Science,Data Scientist,"Statistics, Machine Learning, Python/R, Visualization",BSc CSIT
+Cyber Security,Security Expert,"Cryptography, Network Security, Forensics, Compliance",BSc CSIT
+Web Development,Full Stack Developer,"Frontend, Backend, Databases, DevOps",BSc CSIT
+Law,Lawyer,"Legal Research, Advocacy, Constitution, Litigation",BALLB
+Corporate Law,Corporate Lawyer,"Contracts, Business Law, Negotiation, Mergers",BALLB
+Criminal Law,Criminal Lawyer,"Court Procedures, Evidence, Litigation, Defense",BALLB
+Human Rights,Human Rights Lawyer,"International Law, Advocacy, Ethics, NGO",BALLB
+Intellectual Property,IP Lawyer,"Patents, Copyrights, Legal Drafting, Trademarks",BALLB
+Advanced Law,Lawyer,"Legal Research, Advocacy, Constitution, Arbitration",BALLB
+Corporate Law,Corporate Lawyer,"Contracts, Business Law, Negotiation, Compliance",BALLB

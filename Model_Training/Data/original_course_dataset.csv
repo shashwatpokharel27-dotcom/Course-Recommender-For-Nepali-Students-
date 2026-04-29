@@ -1,0 +1,91 @@
+Interest,Career Goal,Skills,Course
+IT,Developer,Coding;Logic,BCA
+IT,Software Engineer,Programming;Problem Solving,BCA
+IT,Web Developer,HTML;CSS;JS,BCA
+IT,App Developer,Java;Android,BCA
+IT,Programmer,Coding;Debugging,BCA
+IT,System Analyst,Database;Networking,BIT
+IT,IT Specialist,Networking;Security,BIT
+IT,Support Engineer,Troubleshooting;Hardware,BIT
+IT,Cloud Engineer,Cloud;Linux,BIT
+IT,IT Manager,Management;Tech,BIT
+IT,Data Analyst,Python;Statistics,BSc CSIT
+IT,AI Engineer,ML;Python,BSc CSIT
+IT,Data Scientist,Statistics;AI,BSc CSIT
+IT,Software Tester,Testing;QA,BSc CSIT
+IT,Backend Developer,Python;DB,BSc CSIT
+Medical,Doctor,Biology;Chemistry,MBBS
+Medical,Surgeon,Biology;Precision,MBBS
+Medical,Physician,Biology;Diagnosis,MBBS
+Medical,Doctor,Biology;Hard Work,MBBS
+Medical,Specialist,Biology;Research,MBBS
+Medical,Nurse,Patient Care;Biology,BSc Nursing
+Medical,Nurse,Compassion;Health,BSc Nursing
+Medical,Staff Nurse,Care;Medical Knowledge,BSc Nursing
+Medical,Healthcare Worker,Patient Care,BSc Nursing
+Medical,Nursing Assistant,Support;Care,BSc Nursing
+Medical,Pharmacist,Chemistry;Medicine,BPharmacy
+Medical,Drug Specialist,Chemistry;Analysis,BPharmacy
+Medical,Pharmacy Assistant,Drugs;Knowledge,BPharmacy
+Medical,Pharma Researcher,Chemistry;Research,BPharmacy
+Medical,Pharmacist,Drugs;Sales,BPharmacy
+Engineering,Civil Engineer,Math;Design,Civil Engineering
+Engineering,Site Engineer,Construction;Planning,Civil Engineering
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+Engineering,Project Engineer,Planning;Management,Civil Engineering
+Engineering,Engineer,Drawing;Math,Civil Engineering
+Engineering,Software Engineer,Coding;Algorithms,Computer Engineering
+Engineering,System Developer,Coding;Hardware,Computer Engineering
+Engineering,Embedded Engineer,C++;Electronics,Computer Engineering
+Engineering,Developer,Programming;Logic,Computer Engineering
+Engineering,Tech Engineer,Hardware;Software,Computer Engineering
+Engineering,Electrical Engineer,Circuits;Math,Electrical Engineering
+Engineering,Technician,Electrical;Repair,Electrical Engineering
+Engineering,Power Engineer,Energy;Systems,Electrical Engineering
+Engineering,Control Engineer,Automation;Math,Electrical Engineering
+Engineering,Engineer,Electrical;Physics,Electrical Engineering
+Engineering,Mechanical Engineer,Physics;Design,Mechanical Engineering
+Engineering,Machine Operator,Mechanics;Tools,Mechanical Engineering
+Engineering,Automobile Engineer,Engines;Design,Mechanical Engineering
+Engineering,Design Engineer,CAD;Mechanics,Mechanical Engineering
+Engineering,Engineer,Machine;Physics,Mechanical Engineering
+Business,Manager,Leadership;Communication,BBA
+Business,Marketing Manager,Sales;Creativity,BBA
+Business,Entrepreneur,Business;Innovation,BBA
+Business,HR Manager,Communication;Management,BBA
+Business,CEO,Leadership;Strategy,BBA
+Business,Accountant,Accounting;Excel,BBS
+Business,Finance Officer,Finance;Math,BBS
+Business,Clerk,Accounting;Records,BBS
+Business,Auditor,Audit;Analysis,BBS
+Business,Bookkeeper,Accounts;Data,BBS
+Business,Manager,Leadership;Planning,BBM
+Business,Marketing Executive,Sales;Creativity,BBM
+Business,Business Manager,Management;Strategy,BBM
+Business,Team Leader,Communication;Planning,BBM
+Business,Supervisor,Management;Basic Skills,BBM
+Business,Hotel Manager,Customer Service;Management,BHM
+Business,Tourism Manager,Communication;Hospitality,BHM
+Business,Hotel Staff,Service;Communication,BHM
+Business,Receptionist,Communication;Service,BHM
+Business,Resort Manager,Management;Tourism,BHM
+Arts,Psychologist,Analysis;Listening,BA Psychology
+Arts,Counselor,Empathy;Communication,BA Psychology
+Arts,Therapist,Listening;Support,BA Psychology
+Arts,Psych Analyst,Research;Thinking,BA Psychology
+Arts,Advisor,Communication;Understanding,BA Psychology
+Arts,Social Worker,Helping;Communication,BA Sociology
+Arts,Researcher,Analysis;Study,BA Sociology
+Arts,Community Worker,Social;Helping,BA Sociology
+Arts,Social Analyst,Research;Logic,BA Sociology
+Arts,NGO Worker,Helping;Management,BA Sociology
+Arts,Journalist,Writing;Communication,BJMC
+Arts,Reporter,Writing;News,BJMC
+Arts,Media Analyst,Analysis;Media,BJMC
+Arts,Content Creator,Writing;Creativity,BJMC
+Arts,Editor,Editing;Writing,BJMC
+Law,Lawyer,Reading;Writing,BALLB
+Law,Judge,Law;Analysis,BALLB
+Law,Legal Advisor,Law;Communication,BALLB
+Law,Advocate,Debate;Law,BALLB
+Law,Legal Officer,Law;Logic,BALLB

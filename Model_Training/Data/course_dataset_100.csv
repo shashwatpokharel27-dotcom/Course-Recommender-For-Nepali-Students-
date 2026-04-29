@@ -1,0 +1,101 @@
+Interest,Career Goal,Skills,Recommended Course,Stream,GPA
+Arts,Counselor,Writing;Problem Solving,BA Psychology,Management,3.41
+Engineering,Power Engineer,Circuits;Analysis,Electrical Engineering,Science,3.45
+Business,Brand Manager,Communication;Creativity,BBM,Management,3.67
+IT,Network Engineer,Networking;Problem Solving,Computer Engineering,Science,2.93
+IT,Network Engineer,Coding;Logic,Computer Engineering,Science,3.72
+Engineering,Survey Engineer,Measurement;Logic,Civil Engineering,Science,3.52
+Medical,Medical Researcher,Biology;Chemistry,MBBS,Science,3.42
+Arts,Psychologist,Listening;Empathy,BA Psychology,Law,3.13
+IT,System Analyst,Networking;Database,BIT,Management,3.79
+IT,Software Developer,Coding;Problem Solving,BCA,Science,3.64
+Medical,Physician,Biology;Chemistry,MBBS,Science,3.74
+Medical,Pharma Rep,Chemistry;Biology,BPharmacy,Science,3.31
+Business,Brand Manager,Analysis;Planning,BBM,Science,3.71
+Medical,Pharma Rep,Chemistry;Attention to Detail,BPharmacy,Science,3.92
+Media,Editor,Writing;Communication,BJMC,Management,2.77
+IT,Web Developer,Coding;Problem Solving,BCA,Science,3.39
+Hospitality,Front Office Executive,Creativity;Food Interest,BHM,Humanities,2.99
+Hospitality,Front Office Executive,Travel;Communication,BHM,Science,2.48
+IT,Data Analyst,Python;Logic,BSc CSIT,Management,2.71
+Medical,Drug Analyst,Chemistry;Analysis,BPharmacy,Science,3.4
+Engineering,Design Engineer,Mechanics;Problem Solving,Mechanical Engineering,Science,2.82
+Arts,Policy Analyst,Critical Thinking;Reading,BA Sociology,Humanities,3.8
+Medical,Community Nurse,Biology;Empathy,BSc Nursing,Science,3.41
+IT,Hardware Engineer,Electronics;Troubleshooting,Computer Engineering,Science,3.62
+Business,Accountant,Accounting;Excel,BBS,Science,3.28
+IT,Software Engineer,Statistics;Problem Solving,BSc CSIT,Science,3.8
+Engineering,Survey Engineer,Math;Drawing,Civil Engineering,Science,3.26
+Law,Lawyer,Analysis;Communication,BALLB,Law,3.71
+IT,Database Administrator,Problem Solving;Networking,BIT,Science,2.73
+Business,Sales Manager,Negotiation;Communication,BBM,Science,3.08
+IT,Database Administrator,Computer Skills;Troubleshooting,BIT,Science,3.62
+IT,Hardware Engineer,Programming;Electronics,Computer Engineering,Science,3.94
+Arts,Community Developer,Helping;Observation,BA Sociology,Management,3.07
+Medical,Clinical Nurse,Biology;Caregiving,BSc Nursing,Science,3.37
+Media,Journalist,Reading;Writing,BJMC,Law,3.17
+IT,Programmer,Python;HTML;CSS,BCA,Science,3.23
+Business,Auditor,Math;Analysis,BBS,Management,2.75
+Business,Office Manager,Accounting;Excel,BBS,Humanities,3.66
+Medical,Drug Analyst,Chemistry;Analysis,BPharmacy,Science,3.61
+IT,Data Analyst,Python;Logic,BSc CSIT,Management,2.99
+Engineering,Power Engineer,Circuits;Analysis,Electrical Engineering,Science,3.41
+Medical,Pharma Rep,Chemistry;Biology,BPharmacy,Science,3.49
+IT,IT Officer,Computer Skills;Troubleshooting,BIT,Management,3.08
+Law,Lawyer,Reading;Writing;Debate,BALLB,Management,2.6
+Medical,Health Worker,Service;Caregiving,BSc Nursing,Science,3.93
+Medical,Doctor,Biology;Patient Care,MBBS,Science,3.69
+Arts,Research Assistant,Observation;Analysis,BA Psychology,Management,2.89
+Medical,Nurse,Communication;Patient Care,BSc Nursing,Science,3.84
+Business,Entrepreneur,Creativity;Communication,BBA,Humanities,3.14
+IT,Software Engineer,Programming;Algorithms,BSc CSIT,Management,3.41
+Medical,Nurse,Biology;Caregiving,BSc Nursing,Science,3.38
+IT,Software Developer,Java;Debugging,BCA,Science,2.73
+IT,Software Engineer,Programming;Algorithms,BSc CSIT,Science,3.12
+Engineering,Site Engineer,Physics;Problem Solving,Civil Engineering,Science,3.75
+IT,IT Officer,SQL;Data Management,BIT,Science,3.94
+Hospitality,Hotel Manager,Service;Presentation,BHM,Management,2.96
+IT,Database Administrator,Networking;Database,BIT,Science,3.66
+Business,Entrepreneur,Leadership;Communication,BBA,Science,2.84
+Engineering,Civil Engineer,Math;Drawing,Civil Engineering,Science,3.71
+Arts,Policy Analyst,Helping;Observation,BA Sociology,Humanities,3.09
+Engineering,Production Engineer,Planning;Technical Skill,Mechanical Engineering,Science,3.85
+Law,Lawyer,Reading;Writing;Debate,BALLB,Humanities,3.42
+Engineering,Mechanical Engineer,Physics;Design,Mechanical Engineering,Science,3.52
+IT,Hardware Engineer,Programming;Electronics,Computer Engineering,Science,3.62
+Engineering,Electrical Engineer,Logic;Electronics,Electrical Engineering,Science,3.84
+Business,Accountant,Management;Organization,BBS,Humanities,2.43
+IT,System Developer,Electronics;Troubleshooting,Computer Engineering,Science,2.99
+Business,Finance Officer,Detail Oriented;Accounting,BBS,Science,2.71
+Business,Entrepreneur,Management;Decision Making,BBA,Management,3.32
+Law,Advocate,Critical Thinking;Decision Making,BALLB,Management,3.82
+Hospitality,Tourism Officer,Communication;Customer Service,BHM,Management,2.75
+Engineering,Survey Engineer,Planning;Construction,Civil Engineering,Science,3.43
+Engineering,Automobile Engineer,Physics;Design,Mechanical Engineering,Science,3.85
+Engineering,Control Engineer,Physics;Math,Electrical Engineering,Science,3.97
+Law,Legal Advisor,Public Speaking;Research,BALLB,Law,3.33
+Engineering,Production Engineer,CAD;Creativity,Mechanical Engineering,Science,3.09
+Hospitality,Front Office Executive,Communication;Customer Service,BHM,Management,2.53
+Medical,Quality Controller,Communication;Product Knowledge,BPharmacy,Science,3.8
+Media,News Reporter,Writing;Communication,BJMC,Management,3.85
+Engineering,Mechanical Engineer,Mechanics;Problem Solving,Mechanical Engineering,Science,2.9
+Business,HR Officer,People Skills;Management,BBA,Management,3.7
+Arts,Counselor,Listening;Empathy,BA Psychology,Management,3.8
+Engineering,Civil Engineer,Planning;Construction,Civil Engineering,Science,2.98
+Medical,Community Nurse,Communication;Patient Care,BSc Nursing,Science,3.52
+IT,Web Developer,Python;HTML;CSS,BCA,Science,2.8
+Engineering,Power Engineer,Physics;Math,Electrical Engineering,Science,2.98
+Medical,Physician,Biology;Analysis,MBBS,Science,3.33
+IT,Software Developer,Programming;Logic,BCA,Science,3.43
+Medical,Physician,Biology;Patient Care,MBBS,Science,3.75
+Arts,Social Worker,Analysis;Writing,BA Sociology,Management,3.03
+Media,News Reporter,Speaking;Observation,BJMC,Management,3.31
+Business,Business Consultant,Communication;Creativity,BBM,Management,3.5
+Arts,Policy Analyst,Communication;Leadership,BA Sociology,Management,3.71
+Arts,Psychologist,Care;Communication,BA Psychology,Management,3.12
+Medical,Physician,Biology;Discipline,MBBS,Science,3.63
+Business,HR Officer,Leadership;Communication,BBA,Management,3.77
+Business,Sales Manager,Leadership;Strategy,BBM,Management,3.12
+IT,Data Analyst,ML;Math;Coding,BSc CSIT,Science,3.53
+Media,Journalist,Creativity;Editing,BJMC,Law,2.94
+Engineering,Control Engineer,Troubleshooting;Technical Skill,Electrical Engineering,Science,3.81

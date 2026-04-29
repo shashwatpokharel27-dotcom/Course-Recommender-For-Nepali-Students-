@@ -47,8 +47,8 @@ COURSES_DB = {
 # Loading saved Ml model
 try:
 
-    pipeline = joblib.load('model/course_recommender_Rf.pkl')
-    le = joblib.load('model/label_encoder.pkl')
+    pipeline = joblib.load('Model_Training/course_recommender_Rf.pkl')
+    le = joblib.load('Model_Training/label_encoder.pkl')
     model_loaded = True
 except FileNotFoundError:
     model_loaded = False
@@ -117,7 +117,7 @@ def predict_course(data: StudentRequest):
 @app.get("/suggestions")
 async def get_suggestions():
     try:
-        with open('model/suggestions.json', 'r') as f:
+        with open('Model_Training/suggestions.json', 'r') as f:
             return json.load(f)
     except FileNotFoundError: 
         return {"error": "Suggestions file not found. Run your export script."}

@@ -1,0 +1,101 @@
+Student_ID,Interest,Career Goal,Skills,Recommended Course
+S001,IT,Software Developer,"Coding, Logic, Problem Solving",BCA
+S002,Computers,Web Developer,"Creativity, Coding, Basic Math",BCA
+S003,Web Development,IT Support Engineer,"Coding, Creativity, Basic Math",BCA
+S004,Computers,Web Developer,"Basic Math, Creativity, Coding",BCA
+S005,Web Development,Web Developer,"Creativity, Basic Math, Debugging",BCA
+S006,Computers,IT Support Engineer,"Basic Math, Logic, Coding",BCA
+S007,Computers,IT Support Engineer,"Logic, Creativity, Problem Solving",BCA
+S008,Computers,System Analyst,"Coding, Logic, Database",BSc CSIT
+S009,Technology,System Analyst,"Problem Solving, Analytical Thinking, Logic",BSc CSIT
+S010,Technology,Backend Developer,"Analytical Thinking, Coding, Database",BSc CSIT
+S011,Technology,IT Researcher,"Problem Solving, Analytical Thinking, Logic",BSc CSIT
+S012,AI,Data Analyst,"Logic, Coding, Analytical Thinking",BSc CSIT
+S013,Cyber Security,Data Analyst,"Problem Solving, Coding, Algorithms",BSc CSIT
+S014,Technology,Backend Developer,"Problem Solving, Database, Logic",BSc CSIT
+S015,Information Systems,Systems Analyst,"Troubleshooting, Coding, Database",BIT
+S016,Computing,IT Officer,"Logic, Coding, Database",BIT
+S017,Information Systems,Software Tester,"Communication, Troubleshooting, Coding",BIT
+S018,Computing,Systems Analyst,"Networking, Coding, Database",BIT
+S019,Networking,Software Tester,"Troubleshooting, Networking, Coding",BIT
+S020,Data,Systems Analyst,"Coding, Communication, Logic",BIT
+S021,Finance,Bank Officer,"Leadership, Teamwork, Negotiation",BBA
+S022,Management,HR Assistant,"Planning, Teamwork, Presentation",BBA
+S023,Leadership,Bank Officer,"Teamwork, Leadership, Planning",BBA
+S024,Leadership,Bank Officer,"Communication, Negotiation, Planning",BBA
+S025,Management,Entrepreneur,"Negotiation, Presentation, Communication",BBA
+S026,Marketing,Bank Officer,"Planning, Presentation, Teamwork",BBA
+S027,Leadership,Business Manager,"Negotiation, Communication, Teamwork",BBA
+S028,Office Work,Office Manager,"Accounting, Math, Organization",BBS
+S029,Accounting,Finance Assistant,"Accounting, Math, Communication",BBS
+S030,Economics,Accountant,"Time Management, Math, Communication",BBS
+S031,Accounting,Office Manager,"Communication, Excel, Accounting",BBS
+S032,Economics,Office Manager,"Organization, Accounting, Excel",BBS
+S033,Finance,Office Manager,"Communication, Accounting, Time Management",BBS
+S034,Leadership,Manager,"Leadership, Teamwork, Planning",BBM
+S035,Leadership,Sales Executive,"Communication, Teamwork, Planning",BBM
+S036,Management,Business Consultant,"Negotiation, Teamwork, Communication",BBM
+S037,Leadership,Sales Executive,"Planning, Decision Making, Teamwork",BBM
+S038,Entrepreneurship,Entrepreneur,"Teamwork, Negotiation, Planning",BBM
+S039,Business,Sales Executive,"Communication, Leadership, Decision Making",BBM
+S040,Tourism,Restaurant Manager,"Presentation, Customer Service, Management",BHM
+S041,Tourism,Hotel Manager,"Management, Communication, Customer Service",BHM
+S042,Tourism,Hotel Manager,"Teamwork, Communication, Customer Service",BHM
+S043,Travel,Guest Relations Executive,"Customer Service, Presentation, Management",BHM
+S044,Customer Service,Restaurant Manager,"Presentation, Discipline, Customer Service",BHM
+S045,Food Service,Guest Relations Executive,"Customer Service, Communication, Presentation",BHM
+S046,Surveying,Project Engineer,"Drawing, Problem Solving, Planning",Civil Engineering
+S047,Roads,Civil Engineer,"Observation, Math, Planning",Civil Engineering
+S048,Roads,Structural Engineer,"Math, Physics, Planning",Civil Engineering
+S049,Buildings,Construction Manager,"Problem Solving, Physics, Observation",Civil Engineering
+S050,Buildings,Structural Engineer,"Problem Solving, Physics, Math",Civil Engineering
+S051,Roads,Construction Manager,"Math, Observation, Planning",Civil Engineering
+S052,Technology,Hardware Engineer,"Electronics, Problem Solving, Math",Computer Engineering
+S053,Electronics,Hardware Engineer,"Problem Solving, Coding, Electronics",Computer Engineering
+S054,Electronics,Embedded Developer,"Problem Solving, Logic, Debugging",Computer Engineering
+S055,Software,Robotics Engineer,"Debugging, Math, Problem Solving",Computer Engineering
+S056,Hardware,Hardware Engineer,"Logic, Electronics, Coding",Computer Engineering
+S057,Robotics,System Developer,"Coding, Logic, Debugging",Computer Engineering
+S058,Electricity,Technician,"Circuit Analysis, Technical Thinking, Math",Electrical Engineering
+S059,Electricity,Technician,"Physics, Math, Observation",Electrical Engineering
+S060,Renewable Energy,Electrical Engineer,"Observation, Math, Circuit Analysis",Electrical Engineering
+S061,Electricity,Technician,"Math, Technical Thinking, Physics",Electrical Engineering
+S062,Renewable Energy,Electrical Engineer,"Circuit Analysis, Technical Thinking, Problem Solving",Electrical Engineering
+S063,Electronics,Power Engineer,"Observation, Problem Solving, Math",Electrical Engineering
+S064,Manufacturing,Automobile Engineer,"Math, Drawing, Problem Solving",Mechanical Engineering
+S065,Manufacturing,Mechanical Engineer,"Physics, Problem Solving, Creativity",Mechanical Engineering
+S066,Machines,Maintenance Engineer,"Math, Technical Thinking, Drawing",Mechanical Engineering
+S067,Automobile,Production Engineer,"Physics, Math, Drawing",Mechanical Engineering
+S068,Manufacturing,Design Engineer,"Problem Solving, Technical Thinking, Drawing",Mechanical Engineering
+S069,Mechanical Systems,Maintenance Engineer,"Physics, Technical Thinking, Drawing",Mechanical Engineering
+S070,Patient Care,Doctor,"Memory, Patience, Biology",MBBS
+S071,Healthcare,Hospital Doctor,"Memory, Patience, Observation",MBBS
+S072,Surgery,Physician,"Communication, Patience, Memory",MBBS
+S073,Patient Care,Surgeon,"Observation, Dedication, Patience",MBBS
+S074,Healthcare,Doctor,"Communication, Dedication, Patience",MBBS
+S075,Healthcare,Doctor,"Patience, Memory, Communication",MBBS
+S076,Medicine,Medical Officer,"Observation, Dedication, Biology",MBBS
+S077,Healthcare,Nurse,"Discipline, Caregiving, Biology",BSc Nursing
+S078,Hospital,Health Assistant,"Empathy, Caregiving, Patience",BSc Nursing
+S079,Patient Care,Nurse,"Communication, Discipline, Biology",BSc Nursing
+S080,Hospital,Ward Nurse,"Discipline, Caregiving, Biology",BSc Nursing
+S081,Hospital,Health Assistant,"Patience, Empathy, Caregiving",BSc Nursing
+S082,Patient Care,Ward Nurse,"Caregiving, Patience, Biology",BSc Nursing
+S083,Drugs,Lab Assistant,"Precision, Biology, Memory",BPharmacy
+S084,Drugs,Pharmacist,"Precision, Chemistry, Responsibility",BPharmacy
+S085,Drugs,Medical Representative,"Precision, Memory, Observation",BPharmacy
+S086,Drugs,Medical Representative,"Chemistry, Biology, Precision",BPharmacy
+S087,Chemistry,Lab Assistant,"Chemistry, Memory, Observation",BPharmacy
+S088,Research,Drug Specialist,"Precision, Observation, Memory",BPharmacy
+S089,Law,Lawyer,"Writing, Argument, Memory",BALLB
+S090,Law,Lawyer,"Critical Thinking, Communication, Writing",BALLB
+S091,Public Speaking,Legal Officer,"Communication, Critical Thinking, Reading",BALLB
+S092,Debate,Civil Service,"Argument, Writing, Reading",BALLB
+S093,Public Speaking,Judge Preparation,"Reading, Critical Thinking, Argument",BALLB
+S094,Politics,Judge Preparation,"Reading, Writing, Critical Thinking",BALLB
+S095,History,Teacher,"Analysis, Reading, Presentation",BA
+S096,History,Researcher,"Reading, Critical Thinking, Analysis",BA
+S097,Literature,Writer,"Communication, Critical Thinking, Presentation",BA
+S098,History,Writer,"Presentation, Analysis, Reading",BA
+S099,Journalism,Public Service Staff,"Writing, Reading, Presentation",BA
+S100,Social Science,Researcher,"Presentation, Analysis, Reading",BA

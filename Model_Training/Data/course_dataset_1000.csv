@@ -1,0 +1,1001 @@
+Interest,Career Goal,Skills,Course
+Engineering,Automobile Engineer,Physics;Design,Mechanical Engineering
+Medical,Staff Nurse,Patient Care;Biology,BSc Nursing
+Medical,Pharma Researcher,Chemistry;Medicine,BPharmacy
+Engineering,Control Engineer,Automation;Math,Electrical Engineering
+Engineering,Electrical Engineer,Automation;Math,Electrical Engineering
+Engineering,Project Engineer,Math;Design,Civil Engineering
+Business,Business Manager,Sales;Creativity,BBM
+Arts,Editor,Writing;Creativity,BJMC
+Arts,Counselor,Empathy;Communication,BA Psychology
+Business,Accountant,Accounts;Data,BBS
+Medical,Physician,Biology;Research,MBBS
+IT,System Analyst,Troubleshooting;Hardware,BIT
+Business,CEO,Leadership;Communication,BBA
+Engineering,Control Engineer,Automation;Math,Electrical Engineering
+Arts,Psych Analyst,Empathy;Communication,BA Psychology
+Business,Marketing Executive,Sales;Creativity,BBM
+Tourism,Hotel Manager,Management;Tourism,BHM
+IT,System Developer,Hardware;Software,Computer Engineering
+IT,Web Developer,Coding;Logic,BCA
+Business,Resort Manager,Customer Service;Management,BHM
+Business,Bookkeeper,Audit;Analysis,BBS
+Business,Entrepreneur,Management;Strategy,BBA
+Business,Marketing Executive,Management;Strategy,BBM
+Social,Researcher,Helping;Communication,BA Sociology
+Engineering,Tech Engineer,Hardware;Software,Computer Engineering
+Arts,Editor,Editing;Writing,BJMC
+IT,Backend Developer,Python;DB,BSc CSIT
+Media,Journalist,Writing;Communication,BJMC
+Arts,Social Worker,Social;Helping,BA Sociology
+Engineering,Machine Operator,CAD;Mechanics,Mechanical Engineering
+Arts,Social Worker,Research;Logic,BA Sociology
+IT,IT Specialist,Database;Networking,BIT
+Arts,NGO Worker,Social;Helping,BA Sociology
+Medical,Pharmacist,Chemistry;Medicine,BPharmacy
+Medical,Surgeon,Biology;Diagnosis,MBBS
+Medical,Specialist,Biology;Precision,MBBS
+Media,Reporter,Writing;Creativity,BJMC
+Engineering,Automobile Engineer,Mechanics;Tools,Mechanical Engineering
+Business,Team Leader,Leadership;Planning,BBM
+IT,Data Scientist,Python;DB,BSc CSIT
+Social,Social Worker,Analysis;Study,BA Sociology
+Business,Business Manager,Leadership;Planning,BBM
+Engineering,Embedded Engineer,Programming;Logic,Computer Engineering
+Business,Team Leader,Leadership;Planning,BBM
+IT,Software Developer,Coding;Logic,BCA
+Medical,Nurse,Patient Care;Biology,BSc Nursing
+Law,Judge,Reading;Writing,BALLB
+IT,System Analyst,Cloud;Linux,BIT
+Law,Judge,Law;Analysis,BALLB
+Engineering,Mechanical Engineer,Mechanics;Tools,Mechanical Engineering
+IT,Data Analyst,ML;Python,BSc CSIT
+Business,Finance Officer,Accounts;Data,BBS
+Media,Reporter,Writing;News,BJMC
+Engineering,Technician,Circuits;Math,Electrical Engineering
+Medical,Pharmacy Assistant,Chemistry;Research,BPharmacy
+Arts,Editor,Writing;Communication,BJMC
+Business,Accountant,Accounting;Excel,BBS
+Arts,Editor,Writing;Communication,BJMC
+Business,Manager,Business;Innovation,BBA
+Business,Manager,Sales;Creativity,BBA
+IT,Data Analyst,Python;Statistics,BSc CSIT
+IT,Data Analyst,Python;Statistics,BSc CSIT
+Arts,Psychologist,Research;Thinking,BA Psychology
+IT,IT Specialist,Troubleshooting;Hardware,BIT
+Arts,Counselor,Research;Thinking,BA Psychology
+Engineering,Civil Engineer,Math;Design,Civil Engineering
+Engineering,Control Engineer,Automation;Math,Electrical Engineering
+Psychology,Counselor,Empathy;Communication,BA Psychology
+Arts,Content Creator,Writing;News,BJMC
+Medical,Drug Specialist,Drugs;Knowledge,BPharmacy
+Arts,Reporter,Writing;News,BJMC
+IT,Cloud Engineer,Cloud;Linux,BIT
+Engineering,Design Engineer,Engines;Design,Mechanical Engineering
+Engineering,System Developer,Hardware;Software,Computer Engineering
+Engineering,Civil Engineer,Planning;Management,Civil Engineering
+Business,Finance Officer,Accounts;Data,BBS
+IT,Web Developer,Coding;Logic,BCA
+Law,Judge,Debate;Law,BALLB
+Arts,Community Worker,Social;Helping,BA Sociology
+Business,CEO,Management;Strategy,BBA
+IT,Data Scientist,Python;DB,BSc CSIT
+IT,Programmer,HTML;CSS;JS,BCA
+Business,Receptionist,Customer Service;Management,BHM
+Social,NGO Worker,Analysis;Study,BA Sociology
+IT,Data Scientist,ML;Python,BSc CSIT
+Engineering,System Developer,Coding;Algorithms,Computer Engineering
+IT,Backend Developer,Statistics;AI,BSc CSIT
+Business,Accountant,Finance;Math,BBS
+IT,Web Developer,Debugging;Python,BCA
+IT,Backend Developer,Python;DB,BSc CSIT
+Arts,Content Creator,Writing;News,BJMC
+Medical,Pharmacist,Chemistry;Research,BPharmacy
+Medical,Pharmacy Assistant,Chemistry;Medicine,BPharmacy
+Engineering,Project Engineer,Math;Physics,Civil Engineering
+Business,Team Leader,Leadership;Planning,BBM
+Business,Supervisor,Leadership;Planning,BBM
+Medical,Surgeon,Biology;Precision,MBBS
+IT,App Developer,Debugging;Python,BCA
+Social,Social Worker,Social;Helping,BA Sociology
+Medical,Physician,Biology;Chemistry,MBBS
+IT,Software Developer,Debugging;Python,BCA
+Medical,Healthcare Worker,Support;Care,BSc Nursing
+IT,System Analyst,Database;Networking,BIT
+Engineering,Technician,Energy;Systems,Electrical Engineering
+Business,Business Manager,Sales;Creativity,BBM
+Engineering,Machine Operator,Engines;Design,Mechanical Engineering
+Arts,Social Worker,Helping;Communication,BA Sociology
+Business,Accountant,Accounts;Data,BBS
+Psychology,Psych Analyst,Analysis;Listening,BA Psychology
+Psychology,Psych Analyst,Listening;Support,BA Psychology
+Law,Legal Advisor,Debate;Law,BALLB
+Arts,Content Creator,Writing;Communication,BJMC
+IT,Data Scientist,ML;Python,BSc CSIT
+Engineering,Design Engineer,Physics;Design,Mechanical Engineering
+IT,System Developer,Hardware;Software,Computer Engineering
+Business,Auditor,Accounts;Data,BBS
+Arts,Therapist,Empathy;Communication,BA Psychology
+Medical,Drug Specialist,Chemistry;Analysis,BPharmacy
+IT,Tech Engineer,Programming;Logic,Computer Engineering
+Medical,Pharmacist,Chemistry;Medicine,BPharmacy
+IT,System Analyst,Cloud;Linux,BIT
+Engineering,Machine Operator,Physics;Design,Mechanical Engineering
+Engineering,Power Engineer,Energy;Systems,Electrical Engineering
+Business,CEO,Leadership;Communication,BBA
+Arts,NGO Worker,Research;Logic,BA Sociology
+Media,Content Creator,Writing;Communication,BJMC
+IT,Network Engineer,Networking;Security,BIT
+Business,Supervisor,Sales;Creativity,BBM
+Arts,Editor,Editing;Writing,BJMC
+IT,Data Analyst,ML;Python,BSc CSIT
+Engineering,Mechanical Engineer,Engines;Design,Mechanical Engineering
+Engineering,Project Engineer,Math;Design,Civil Engineering
+Engineering,Electrical Engineer,Automation;Math,Electrical Engineering
+IT,AI Engineer,Python;DB,BSc CSIT
+Engineering,Control Engineer,Energy;Systems,Electrical Engineering
+Law,Judge,Law;Communication,BALLB
+Psychology,Therapist,Listening;Support,BA Psychology
+IT,Web Developer,Coding;Logic,BCA
+Business,Finance Officer,Accounts;Data,BBS
+Engineering,Technician,Electrical;Repair,Electrical Engineering
+Business,Auditor,Finance;Math,BBS
+Business,Auditor,Finance;Math,BBS
+Medical,Drug Specialist,Chemistry;Research,BPharmacy
+Business,Resort Manager,Communication;Hospitality,BHM
+Psychology,Psych Analyst,Analysis;Listening,BA Psychology
+IT,Cloud Engineer,Database;Networking,BIT
+Arts,NGO Worker,Social;Helping,BA Sociology
+Medical,Physician,Biology;Chemistry,MBBS
+Medical,Physician,Biology;Research,MBBS
+Arts,Community Worker,Helping;Communication,BA Sociology
+Engineering,Embedded Engineer,Hardware;Software,Computer Engineering
+Law,Judge,Law;Communication,BALLB
+Law,Judge,Reading;Writing,BALLB
+Business,CEO,Sales;Creativity,BBA
+Engineering,Control Engineer,Electrical;Repair,Electrical Engineering
+Psychology,Psychologist,Listening;Support,BA Psychology
+Business,Entrepreneur,Sales;Creativity,BBA
+Engineering,Site Engineer,Planning;Management,Civil Engineering
+IT,Software Developer,HTML;CSS;JS,BCA
+Business,Bookkeeper,Finance;Math,BBS
+IT,Web Developer,HTML;CSS;JS,BCA
+IT,Data Scientist,Statistics;AI,BSc CSIT
+Law,Legal Advisor,Law;Analysis,BALLB
+Engineering,Control Engineer,Circuits;Math,Electrical Engineering
+Medical,Pharma Researcher,Chemistry;Medicine,BPharmacy
+Business,Resort Manager,Customer Service;Management,BHM
+IT,Cloud Engineer,Troubleshooting;Hardware,BIT
+Medical,Nurse,Support;Care,BSc Nursing
+IT,Web Developer,Debugging;Python,BCA
+Business,Manager,Leadership;Communication,BBA
+IT,Embedded Engineer,Programming;Logic,Computer Engineering
+Engineering,Control Engineer,Automation;Math,Electrical Engineering
+Engineering,Power Engineer,Automation;Math,Electrical Engineering
+Medical,Specialist,Biology;Chemistry,MBBS
+Business,Accountant,Accounting;Excel,BBS
+Medical,Surgeon,Biology;Diagnosis,MBBS
+Medical,Specialist,Biology;Diagnosis,MBBS
+IT,Backend Developer,ML;Python,BSc CSIT
+Law,Lawyer,Law;Communication,BALLB
+IT,System Developer,Hardware;Software,Computer Engineering
+IT,Software Developer,Coding;Logic,BCA
+Business,Hotel Manager,Customer Service;Management,BHM
+Engineering,Project Engineer,Planning;Management,Civil Engineering
+Law,Judge,Debate;Law,BALLB
+Business,Accountant,Accounts;Data,BBS
+IT,Data Scientist,Statistics;AI,BSc CSIT
+Tourism,Hotel Manager,Management;Tourism,BHM
+Business,Team Leader,Leadership;Planning,BBM
+Business,Bookkeeper,Accounting;Excel,BBS
+Engineering,Mechanical Engineer,Physics;Design,Mechanical Engineering
+Social,Researcher,Social;Helping,BA Sociology
+IT,Cloud Engineer,Networking;Security,BIT
+IT,System Analyst,Networking;Security,BIT
+Business,Business Manager,Communication;Planning,BBM
+Law,Legal Advisor,Law;Communication,BALLB
+IT,IT Specialist,Troubleshooting;Hardware,BIT
+Arts,Editor,Editing;Writing,BJMC
+Business,HR Manager,Business;Innovation,BBA
+Medical,Drug Specialist,Chemistry;Research,BPharmacy
+IT,Backend Developer,Python;DB,BSc CSIT
+Engineering,Civil Engineer,Planning;Management,Civil Engineering
+IT,App Developer,Coding;Logic,BCA
+Medical,Pharmacy Assistant,Chemistry;Analysis,BPharmacy
+Arts,Counselor,Listening;Support,BA Psychology
+IT,Data Analyst,ML;Python,BSc CSIT
+IT,Data Scientist,Python;DB,BSc CSIT
+IT,AI Engineer,Python;DB,BSc CSIT
+Engineering,Tech Engineer,Programming;Logic,Computer Engineering
+Engineering,Mechanical Engineer,Mechanics;Tools,Mechanical Engineering
+Medical,Specialist,Biology;Chemistry,MBBS
+Business,Auditor,Accounts;Data,BBS
+Law,Judge,Law;Communication,BALLB
+Social,Community Worker,Social;Helping,BA Sociology
+Engineering,Technician,Electrical;Repair,Electrical Engineering
+Business,CEO,Management;Strategy,BBA
+IT,Network Engineer,Networking;Security,BIT
+IT,Software Developer,Debugging;Python,BCA
+Business,Hotel Manager,Management;Tourism,BHM
+Engineering,Structural Engineer,Planning;Management,Civil Engineering
+IT,Data Scientist,Python;Statistics,BSc CSIT
+Engineering,Tech Engineer,Coding;Algorithms,Computer Engineering
+Engineering,Tech Engineer,Programming;Logic,Computer Engineering
+IT,System Analyst,Troubleshooting;Hardware,BIT
+Engineering,Automobile Engineer,CAD;Mechanics,Mechanical Engineering
+Law,Legal Advisor,Reading;Writing,BALLB
+Engineering,Civil Engineer,Math;Design,Civil Engineering
+IT,Tech Engineer,Hardware;Software,Computer Engineering
+IT,AI Engineer,ML;Python,BSc CSIT
+IT,Data Scientist,Python;DB,BSc CSIT
+Business,Marketing Executive,Leadership;Planning,BBM
+Business,Auditor,Finance;Math,BBS
+Tourism,Tourism Manager,Communication;Hospitality,BHM
+Medical,Pharmacy Assistant,Chemistry;Analysis,BPharmacy
+Medical,Doctor,Biology;Precision,MBBS
+IT,Cloud Engineer,Cloud;Linux,BIT
+Engineering,Embedded Engineer,C++;Electronics,Computer Engineering
+Engineering,Mechanical Engineer,Physics;Design,Mechanical Engineering
+Business,HR Manager,Management;Strategy,BBA
+Business,Accountant,Audit;Analysis,BBS
+Arts,Psych Analyst,Listening;Support,BA Psychology
+Engineering,Civil Engineer,Math;Physics,Civil Engineering
+Medical,Doctor,Biology;Research,MBBS
+Arts,Psych Analyst,Analysis;Listening,BA Psychology
+Medical,Healthcare Worker,Care;Medical Knowledge,BSc Nursing
+Business,Accountant,Finance;Math,BBS
+Engineering,Technician,Automation;Math,Electrical Engineering
+Business,Accountant,Accounting;Excel,BBS
+Arts,Social Worker,Helping;Communication,BA Sociology
+Medical,Physician,Biology;Research,MBBS
+IT,IT Specialist,Cloud;Linux,BIT
+Engineering,Site Engineer,Construction;Planning,Civil Engineering
+Business,Team Leader,Management;Strategy,BBM
+Arts,Journalist,Writing;News,BJMC
+Law,Advocate,Law;Communication,BALLB
+Engineering,Machine Operator,Physics;Design,Mechanical Engineering
+Business,Marketing Executive,Sales;Creativity,BBM
+Engineering,System Developer,Coding;Algorithms,Computer Engineering
+Medical,Physician,Biology;Precision,MBBS
+Medical,Nursing Assistant,Compassion;Health,BSc Nursing
+Arts,Journalist,Writing;Communication,BJMC
+Tourism,Resort Manager,Management;Tourism,BHM
+IT,System Developer,Hardware;Software,Computer Engineering
+IT,Web Developer,HTML;CSS;JS,BCA
+Medical,Surgeon,Biology;Chemistry,MBBS
+Business,Entrepreneur,Business;Innovation,BBA
+Arts,Journalist,Writing;News,BJMC
+Medical,Drug Specialist,Drugs;Knowledge,BPharmacy
+Engineering,Machine Operator,Engines;Design,Mechanical Engineering
+Medical,Drug Specialist,Drugs;Knowledge,BPharmacy
+Social,Social Worker,Social;Helping,BA Sociology
+Medical,Pharmacy Assistant,Drugs;Knowledge,BPharmacy
+Medical,Pharma Researcher,Chemistry;Medicine,BPharmacy
+Engineering,Structural Engineer,Construction;Planning,Civil Engineering
+Arts,Researcher,Research;Logic,BA Sociology
+Medical,Staff Nurse,Patient Care;Biology,BSc Nursing
+IT,Data Scientist,Python;DB,BSc CSIT
+IT,Programmer,Programming;Problem Solving,BCA
+Medical,Pharma Researcher,Chemistry;Research,BPharmacy
+Business,Resort Manager,Communication;Service,BHM
+IT,Network Engineer,Troubleshooting;Hardware,BIT
+IT,Software Developer,HTML;CSS;JS,BCA
+Law,Judge,Debate;Law,BALLB
+Engineering,Tech Engineer,Coding;Algorithms,Computer Engineering
+Tourism,Resort Manager,Customer Service;Management,BHM
+Medical,Nurse,Patient Care;Biology,BSc Nursing
+Business,Hotel Manager,Management;Tourism,BHM
+Business,HR Manager,Sales;Creativity,BBA
+Psychology,Therapist,Listening;Support,BA Psychology
+Medical,Doctor,Biology;Chemistry,MBBS
+Arts,Social Worker,Research;Logic,BA Sociology
+IT,Embedded Engineer,Hardware;Software,Computer Engineering
+IT,Software Developer,Coding;Logic,BCA
+Engineering,Civil Engineer,Math;Physics,Civil Engineering
+IT,Web Developer,HTML;CSS;JS,BCA
+Medical,Staff Nurse,Compassion;Health,BSc Nursing
+Engineering,Power Engineer,Energy;Systems,Electrical Engineering
+Arts,Counselor,Listening;Support,BA Psychology
+Engineering,Technician,Electrical;Repair,Electrical Engineering
+Tourism,Resort Manager,Communication;Service,BHM
+Engineering,Structural Engineer,Math;Design,Civil Engineering
+IT,App Developer,Programming;Problem Solving,BCA
+Psychology,Counselor,Analysis;Listening,BA Psychology
+Medical,Pharmacy Assistant,Chemistry;Medicine,BPharmacy
+Engineering,Machine Operator,CAD;Mechanics,Mechanical Engineering
+Business,Hotel Manager,Communication;Service,BHM
+Medical,Pharmacy Assistant,Chemistry;Research,BPharmacy
+Law,Legal Advisor,Law;Analysis,BALLB
+Medical,Pharmacist,Chemistry;Research,BPharmacy
+Engineering,Mechanical Engineer,Physics;Design,Mechanical Engineering
+IT,Embedded Engineer,Coding;Algorithms,Computer Engineering
+Tourism,Resort Manager,Customer Service;Management,BHM
+Arts,NGO Worker,Research;Logic,BA Sociology
+Tourism,Hotel Manager,Communication;Hospitality,BHM
+Engineering,Control Engineer,Energy;Systems,Electrical Engineering
+Business,HR Manager,Leadership;Communication,BBA
+IT,System Analyst,Troubleshooting;Hardware,BIT
+Engineering,Design Engineer,Physics;Design,Mechanical Engineering
+Law,Advocate,Law;Analysis,BALLB
+Arts,Journalist,Writing;News,BJMC
+IT,Web Developer,Debugging;Python,BCA
+IT,IT Specialist,Database;Networking,BIT
+Medical,Pharma Researcher,Chemistry;Medicine,BPharmacy
+Medical,Doctor,Biology;Chemistry,MBBS
+Engineering,Electrical Engineer,Circuits;Math,Electrical Engineering
+IT,AI Engineer,Python;DB,BSc CSIT
+Medical,Pharmacist,Drugs;Knowledge,BPharmacy
+Arts,Psychologist,Research;Thinking,BA Psychology
+Media,Journalist,Editing;Writing,BJMC
+Media,Journalist,Editing;Writing,BJMC
+Business,Finance Officer,Accounts;Data,BBS
+Arts,Counselor,Empathy;Communication,BA Psychology
+Medical,Surgeon,Biology;Research,MBBS
+Engineering,Automobile Engineer,CAD;Mechanics,Mechanical Engineering
+IT,Web Developer,HTML;CSS;JS,BCA
+Law,Legal Advisor,Reading;Writing,BALLB
+Arts,Community Worker,Research;Logic,BA Sociology
+Engineering,Project Engineer,Math;Physics,Civil Engineering
+Business,Finance Officer,Accounting;Excel,BBS
+Business,Entrepreneur,Business;Innovation,BBA
+Engineering,Machine Operator,CAD;Mechanics,Mechanical Engineering
+IT,Network Engineer,Troubleshooting;Hardware,BIT
+Psychology,Psych Analyst,Empathy;Communication,BA Psychology
+Medical,Healthcare Worker,Support;Care,BSc Nursing
+Engineering,Mechanical Engineer,Engines;Design,Mechanical Engineering
+Business,Receptionist,Customer Service;Management,BHM
+Business,CEO,Management;Strategy,BBA
+Social,Community Worker,Research;Logic,BA Sociology
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+Business,HR Manager,Leadership;Communication,BBA
+IT,Data Scientist,Python;DB,BSc CSIT
+Medical,Nursing Assistant,Compassion;Health,BSc Nursing
+IT,System Developer,Programming;Logic,Computer Engineering
+Media,Content Creator,Editing;Writing,BJMC
+Business,Finance Officer,Accounts;Data,BBS
+IT,Network Engineer,Database;Networking,BIT
+Media,Journalist,Editing;Writing,BJMC
+Business,CEO,Leadership;Communication,BBA
+IT,Backend Developer,Python;DB,BSc CSIT
+Medical,Healthcare Worker,Support;Care,BSc Nursing
+Engineering,Power Engineer,Energy;Systems,Electrical Engineering
+Business,Team Leader,Management;Strategy,BBM
+Law,Judge,Debate;Law,BALLB
+Arts,Social Worker,Social;Helping,BA Sociology
+Business,CEO,Leadership;Communication,BBA
+Business,Auditor,Accounting;Excel,BBS
+Medical,Staff Nurse,Compassion;Health,BSc Nursing
+Business,Supervisor,Communication;Planning,BBM
+Business,Accountant,Accounts;Data,BBS
+IT,Backend Developer,Statistics;AI,BSc CSIT
+Business,Hotel Manager,Management;Tourism,BHM
+Engineering,Civil Engineer,Math;Physics,Civil Engineering
+Social,Community Worker,Research;Logic,BA Sociology
+Medical,Nurse,Support;Care,BSc Nursing
+Business,Marketing Executive,Leadership;Planning,BBM
+Business,Entrepreneur,Sales;Creativity,BBA
+IT,IT Specialist,Troubleshooting;Hardware,BIT
+Tourism,Resort Manager,Communication;Hospitality,BHM
+Medical,Surgeon,Biology;Research,MBBS
+Arts,Journalist,Editing;Writing,BJMC
+Media,Journalist,Editing;Writing,BJMC
+Business,HR Manager,Leadership;Communication,BBA
+Engineering,Electrical Engineer,Energy;Systems,Electrical Engineering
+Engineering,Site Engineer,Planning;Management,Civil Engineering
+Medical,Healthcare Worker,Patient Care;Biology,BSc Nursing
+Medical,Surgeon,Biology;Precision,MBBS
+Engineering,Software Engineer,Hardware;Software,Computer Engineering
+Medical,Drug Specialist,Chemistry;Analysis,BPharmacy
+IT,AI Engineer,ML;Python,BSc CSIT
+Social,NGO Worker,Analysis;Study,BA Sociology
+Arts,NGO Worker,Analysis;Study,BA Sociology
+IT,Cloud Engineer,Database;Networking,BIT
+IT,Software Developer,Programming;Problem Solving,BCA
+Medical,Nurse,Care;Medical Knowledge,BSc Nursing
+Business,Team Leader,Leadership;Planning,BBM
+IT,System Analyst,Troubleshooting;Hardware,BIT
+Medical,Pharmacy Assistant,Drugs;Knowledge,BPharmacy
+Law,Advocate,Debate;Law,BALLB
+Law,Judge,Reading;Writing,BALLB
+IT,App Developer,Programming;Problem Solving,BCA
+Medical,Pharmacy Assistant,Chemistry;Medicine,BPharmacy
+Tourism,Tourism Manager,Customer Service;Management,BHM
+Media,Reporter,Editing;Writing,BJMC
+Law,Legal Advisor,Reading;Writing,BALLB
+Law,Legal Advisor,Law;Communication,BALLB
+IT,Web Developer,Debugging;Python,BCA
+Engineering,Control Engineer,Circuits;Math,Electrical Engineering
+Business,Accountant,Accounting;Excel,BBS
+Engineering,Control Engineer,Automation;Math,Electrical Engineering
+IT,Software Developer,HTML;CSS;JS,BCA
+Business,Business Manager,Leadership;Planning,BBM
+Engineering,Technician,Electrical;Repair,Electrical Engineering
+IT,IT Specialist,Networking;Security,BIT
+Medical,Pharma Researcher,Chemistry;Research,BPharmacy
+Law,Advocate,Law;Communication,BALLB
+Medical,Staff Nurse,Support;Care,BSc Nursing
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+Engineering,System Developer,C++;Electronics,Computer Engineering
+Medical,Pharmacist,Chemistry;Analysis,BPharmacy
+Business,Marketing Executive,Management;Strategy,BBM
+Arts,Content Creator,Writing;Communication,BJMC
+Arts,Content Creator,Writing;News,BJMC
+Social,Community Worker,Analysis;Study,BA Sociology
+Medical,Doctor,Biology;Precision,MBBS
+Tourism,Resort Manager,Communication;Hospitality,BHM
+Engineering,Machine Operator,Engines;Design,Mechanical Engineering
+IT,Data Scientist,ML;Python,BSc CSIT
+Business,Receptionist,Customer Service;Management,BHM
+Business,Finance Officer,Accounts;Data,BBS
+Engineering,Machine Operator,CAD;Mechanics,Mechanical Engineering
+IT,Data Analyst,ML;Python,BSc CSIT
+Medical,Doctor,Biology;Diagnosis,MBBS
+Social,Researcher,Helping;Communication,BA Sociology
+IT,Backend Developer,Python;Statistics,BSc CSIT
+IT,Network Engineer,Database;Networking,BIT
+Engineering,Automobile Engineer,Physics;Design,Mechanical Engineering
+Engineering,Structural Engineer,Math;Design,Civil Engineering
+Business,Supervisor,Communication;Planning,BBM
+Business,Hotel Manager,Communication;Service,BHM
+Arts,Social Worker,Research;Logic,BA Sociology
+IT,AI Engineer,Python;Statistics,BSc CSIT
+Medical,Pharmacist,Chemistry;Research,BPharmacy
+Medical,Healthcare Worker,Patient Care;Biology,BSc Nursing
+Business,CEO,Leadership;Communication,BBA
+Engineering,Technician,Electrical;Repair,Electrical Engineering
+Business,Entrepreneur,Management;Strategy,BBA
+Arts,Psychologist,Empathy;Communication,BA Psychology
+Law,Judge,Law;Analysis,BALLB
+IT,Programmer,Coding;Logic,BCA
+Engineering,Civil Engineer,Construction;Planning,Civil Engineering
+Psychology,Psych Analyst,Analysis;Listening,BA Psychology
+Engineering,Automobile Engineer,Physics;Design,Mechanical Engineering
+Business,Accountant,Accounting;Excel,BBS
+Arts,Reporter,Writing;Communication,BJMC
+Arts,Journalist,Writing;Communication,BJMC
+Arts,Editor,Writing;Creativity,BJMC
+Arts,Therapist,Analysis;Listening,BA Psychology
+Business,Finance Officer,Finance;Math,BBS
+Engineering,Project Engineer,Math;Design,Civil Engineering
+Business,Entrepreneur,Leadership;Communication,BBA
+Business,Business Manager,Communication;Planning,BBM
+Business,Resort Manager,Management;Tourism,BHM
+Engineering,Project Engineer,Math;Design,Civil Engineering
+Social,Social Worker,Analysis;Study,BA Sociology
+Business,Business Manager,Leadership;Planning,BBM
+IT,App Developer,HTML;CSS;JS,BCA
+Engineering,Project Engineer,Math;Physics,Civil Engineering
+IT,Data Scientist,Python;Statistics,BSc CSIT
+Medical,Healthcare Worker,Compassion;Health,BSc Nursing
+IT,Tech Engineer,C++;Electronics,Computer Engineering
+Medical,Surgeon,Biology;Precision,MBBS
+IT,Data Scientist,ML;Python,BSc CSIT
+Arts,Social Worker,Research;Logic,BA Sociology
+Law,Advocate,Law;Analysis,BALLB
+IT,System Analyst,Cloud;Linux,BIT
+Psychology,Psych Analyst,Research;Thinking,BA Psychology
+IT,Tech Engineer,Hardware;Software,Computer Engineering
+Medical,Specialist,Biology;Diagnosis,MBBS
+IT,Tech Engineer,Hardware;Software,Computer Engineering
+Arts,Editor,Writing;News,BJMC
+Engineering,Embedded Engineer,C++;Electronics,Computer Engineering
+Engineering,Power Engineer,Electrical;Repair,Electrical Engineering
+Arts,NGO Worker,Social;Helping,BA Sociology
+Business,Receptionist,Communication;Service,BHM
+Business,Bookkeeper,Accounting;Excel,BBS
+Engineering,Design Engineer,Physics;Design,Mechanical Engineering
+Arts,Journalist,Editing;Writing,BJMC
+Business,Supervisor,Leadership;Planning,BBM
+IT,Embedded Engineer,C++;Electronics,Computer Engineering
+IT,Data Scientist,Python;Statistics,BSc CSIT
+Law,Legal Advisor,Law;Analysis,BALLB
+Arts,Editor,Writing;Creativity,BJMC
+Business,Entrepreneur,Business;Innovation,BBA
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+Business,Accountant,Finance;Math,BBS
+IT,Web Developer,Debugging;Python,BCA
+Medical,Surgeon,Biology;Chemistry,MBBS
+IT,App Developer,Debugging;Python,BCA
+Engineering,Tech Engineer,Hardware;Software,Computer Engineering
+Media,Content Creator,Writing;News,BJMC
+Law,Advocate,Law;Communication,BALLB
+Engineering,Design Engineer,CAD;Mechanics,Mechanical Engineering
+Engineering,Mechanical Engineer,Engines;Design,Mechanical Engineering
+Arts,Editor,Editing;Writing,BJMC
+Engineering,Tech Engineer,Programming;Logic,Computer Engineering
+Business,Marketing Executive,Sales;Creativity,BBM
+Law,Judge,Reading;Writing,BALLB
+Medical,Specialist,Biology;Precision,MBBS
+IT,Network Engineer,Networking;Security,BIT
+Medical,Nurse,Care;Medical Knowledge,BSc Nursing
+Engineering,Machine Operator,CAD;Mechanics,Mechanical Engineering
+Arts,NGO Worker,Analysis;Study,BA Sociology
+Arts,Content Creator,Writing;Communication,BJMC
+Medical,Staff Nurse,Patient Care;Biology,BSc Nursing
+Business,HR Manager,Management;Strategy,BBA
+Engineering,Control Engineer,Circuits;Math,Electrical Engineering
+Psychology,Counselor,Listening;Support,BA Psychology
+Engineering,Mechanical Engineer,CAD;Mechanics,Mechanical Engineering
+Medical,Pharmacist,Chemistry;Medicine,BPharmacy
+IT,Network Engineer,Cloud;Linux,BIT
+Medical,Physician,Biology;Precision,MBBS
+IT,Web Developer,HTML;CSS;JS,BCA
+IT,Programmer,Coding;Logic,BCA
+IT,Data Scientist,ML;Python,BSc CSIT
+IT,App Developer,Debugging;Python,BCA
+Medical,Drug Specialist,Chemistry;Medicine,BPharmacy
+Business,HR Manager,Sales;Creativity,BBA
+Arts,Journalist,Writing;Communication,BJMC
+Business,Entrepreneur,Management;Strategy,BBA
+Engineering,Electrical Engineer,Energy;Systems,Electrical Engineering
+Engineering,Electrical Engineer,Automation;Math,Electrical Engineering
+IT,Data Analyst,ML;Python,BSc CSIT
+Medical,Pharmacy Assistant,Chemistry;Analysis,BPharmacy
+Tourism,Tourism Manager,Management;Tourism,BHM
+Medical,Specialist,Biology;Research,MBBS
+Media,Journalist,Writing;News,BJMC
+Medical,Specialist,Biology;Chemistry,MBBS
+Business,Business Manager,Management;Strategy,BBM
+Business,Hotel Manager,Communication;Service,BHM
+Business,Supervisor,Leadership;Planning,BBM
+Business,Manager,Business;Innovation,BBA
+Business,Supervisor,Communication;Planning,BBM
+Medical,Staff Nurse,Support;Care,BSc Nursing
+Engineering,Embedded Engineer,Programming;Logic,Computer Engineering
+Business,Auditor,Accounting;Excel,BBS
+Arts,Psych Analyst,Listening;Support,BA Psychology
+Arts,Community Worker,Helping;Communication,BA Sociology
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+Business,Entrepreneur,Leadership;Communication,BBA
+Business,Marketing Executive,Leadership;Planning,BBM
+Arts,Psychologist,Research;Thinking,BA Psychology
+Business,Business Manager,Leadership;Planning,BBM
+IT,Embedded Engineer,Coding;Algorithms,Computer Engineering
+Business,Marketing Executive,Sales;Creativity,BBM
+Medical,Specialist,Biology;Precision,MBBS
+Engineering,Project Engineer,Construction;Planning,Civil Engineering
+IT,App Developer,Programming;Problem Solving,BCA
+Medical,Healthcare Worker,Care;Medical Knowledge,BSc Nursing
+Medical,Pharma Researcher,Chemistry;Research,BPharmacy
+Engineering,Tech Engineer,Coding;Algorithms,Computer Engineering
+Media,Journalist,Writing;Communication,BJMC
+Medical,Drug Specialist,Chemistry;Analysis,BPharmacy
+Engineering,Technician,Energy;Systems,Electrical Engineering
+Engineering,Power Engineer,Circuits;Math,Electrical Engineering
+Business,Tourism Manager,Communication;Hospitality,BHM
+Engineering,Mechanical Engineer,Engines;Design,Mechanical Engineering
+Engineering,Electrical Engineer,Circuits;Math,Electrical Engineering
+Business,Bookkeeper,Accounts;Data,BBS
+Business,Business Manager,Management;Strategy,BBM
+IT,AI Engineer,Python;DB,BSc CSIT
+Engineering,Mechanical Engineer,Physics;Design,Mechanical Engineering
+Media,Reporter,Writing;Communication,BJMC
+Law,Lawyer,Reading;Writing,BALLB
+Medical,Drug Specialist,Chemistry;Analysis,BPharmacy
+Law,Lawyer,Law;Communication,BALLB
+Business,Marketing Executive,Leadership;Planning,BBM
+Social,NGO Worker,Analysis;Study,BA Sociology
+Business,Resort Manager,Communication;Service,BHM
+Medical,Drug Specialist,Chemistry;Analysis,BPharmacy
+Engineering,Technician,Circuits;Math,Electrical Engineering
+IT,System Analyst,Networking;Security,BIT
+Medical,Healthcare Worker,Care;Medical Knowledge,BSc Nursing
+Business,HR Manager,Leadership;Communication,BBA
+Law,Lawyer,Reading;Writing,BALLB
+Tourism,Tourism Manager,Customer Service;Management,BHM
+Medical,Pharma Researcher,Chemistry;Research,BPharmacy
+Business,Marketing Executive,Communication;Planning,BBM
+Business,Bookkeeper,Accounts;Data,BBS
+Law,Judge,Reading;Writing,BALLB
+Business,HR Manager,Management;Strategy,BBA
+Engineering,Power Engineer,Circuits;Math,Electrical Engineering
+Medical,Surgeon,Biology;Research,MBBS
+Engineering,Automobile Engineer,Physics;Design,Mechanical Engineering
+IT,Backend Developer,Statistics;AI,BSc CSIT
+Business,Finance Officer,Accounting;Excel,BBS
+Business,Accountant,Accounts;Data,BBS
+Medical,Nurse,Care;Medical Knowledge,BSc Nursing
+Arts,Counselor,Empathy;Communication,BA Psychology
+Engineering,Power Engineer,Circuits;Math,Electrical Engineering
+Psychology,Therapist,Empathy;Communication,BA Psychology
+Tourism,Receptionist,Communication;Service,BHM
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+IT,Programmer,Debugging;Python,BCA
+IT,Software Developer,Programming;Problem Solving,BCA
+Medical,Specialist,Biology;Chemistry,MBBS
+Engineering,Mechanical Engineer,Engines;Design,Mechanical Engineering
+Tourism,Tourism Manager,Communication;Hospitality,BHM
+IT,AI Engineer,ML;Python,BSc CSIT
+Arts,NGO Worker,Helping;Communication,BA Sociology
+Medical,Pharmacist,Chemistry;Analysis,BPharmacy
+Medical,Staff Nurse,Care;Medical Knowledge,BSc Nursing
+Business,Tourism Manager,Communication;Service,BHM
+Medical,Pharma Researcher,Chemistry;Medicine,BPharmacy
+Engineering,Embedded Engineer,Programming;Logic,Computer Engineering
+IT,Cloud Engineer,Cloud;Linux,BIT
+Psychology,Therapist,Research;Thinking,BA Psychology
+Medical,Healthcare Worker,Support;Care,BSc Nursing
+IT,IT Specialist,Cloud;Linux,BIT
+IT,Cloud Engineer,Troubleshooting;Hardware,BIT
+Engineering,Automobile Engineer,Physics;Design,Mechanical Engineering
+Business,Auditor,Accounts;Data,BBS
+IT,Web Developer,Debugging;Python,BCA
+Arts,Psychologist,Listening;Support,BA Psychology
+Tourism,Tourism Manager,Customer Service;Management,BHM
+Business,Business Manager,Sales;Creativity,BBM
+Law,Lawyer,Debate;Law,BALLB
+IT,Cloud Engineer,Troubleshooting;Hardware,BIT
+IT,System Analyst,Database;Networking,BIT
+IT,Tech Engineer,Coding;Algorithms,Computer Engineering
+Medical,Specialist,Biology;Chemistry,MBBS
+Business,Tourism Manager,Communication;Service,BHM
+Business,Accountant,Accounting;Excel,BBS
+Medical,Nursing Assistant,Support;Care,BSc Nursing
+Arts,Psychologist,Analysis;Listening,BA Psychology
+IT,Data Analyst,ML;Python,BSc CSIT
+IT,Software Developer,Debugging;Python,BCA
+Tourism,Tourism Manager,Customer Service;Management,BHM
+Business,Accountant,Finance;Math,BBS
+Engineering,System Developer,Programming;Logic,Computer Engineering
+Business,Tourism Manager,Management;Tourism,BHM
+Law,Lawyer,Law;Analysis,BALLB
+Business,HR Manager,Sales;Creativity,BBA
+Engineering,Civil Engineer,Planning;Management,Civil Engineering
+Engineering,Electrical Engineer,Circuits;Math,Electrical Engineering
+Medical,Nurse,Care;Medical Knowledge,BSc Nursing
+Media,Content Creator,Writing;Creativity,BJMC
+Business,Bookkeeper,Audit;Analysis,BBS
+Medical,Nurse,Support;Care,BSc Nursing
+Medical,Drug Specialist,Chemistry;Analysis,BPharmacy
+Medical,Pharmacy Assistant,Drugs;Knowledge,BPharmacy
+Social,Social Worker,Social;Helping,BA Sociology
+Medical,Nurse,Compassion;Health,BSc Nursing
+Tourism,Tourism Manager,Communication;Service,BHM
+IT,Data Scientist,Python;DB,BSc CSIT
+Law,Lawyer,Law;Analysis,BALLB
+IT,IT Specialist,Cloud;Linux,BIT
+Engineering,Software Engineer,Coding;Algorithms,Computer Engineering
+Tourism,Hotel Manager,Communication;Hospitality,BHM
+Business,Resort Manager,Communication;Hospitality,BHM
+Business,Business Manager,Communication;Planning,BBM
+Social,Social Worker,Research;Logic,BA Sociology
+Engineering,Project Engineer,Math;Design,Civil Engineering
+Law,Lawyer,Law;Communication,BALLB
+Medical,Physician,Biology;Research,MBBS
+Law,Legal Advisor,Debate;Law,BALLB
+Business,Auditor,Finance;Math,BBS
+Engineering,Electrical Engineer,Electrical;Repair,Electrical Engineering
+Law,Advocate,Law;Analysis,BALLB
+Arts,NGO Worker,Social;Helping,BA Sociology
+Business,Tourism Manager,Customer Service;Management,BHM
+Psychology,Psychologist,Empathy;Communication,BA Psychology
+Engineering,Technician,Automation;Math,Electrical Engineering
+Engineering,Technician,Energy;Systems,Electrical Engineering
+Law,Lawyer,Law;Communication,BALLB
+Medical,Drug Specialist,Chemistry;Research,BPharmacy
+Engineering,Project Engineer,Planning;Management,Civil Engineering
+Arts,Editor,Writing;Communication,BJMC
+Social,Community Worker,Helping;Communication,BA Sociology
+Engineering,Machine Operator,Mechanics;Tools,Mechanical Engineering
+Business,Accountant,Accounting;Excel,BBS
+Business,Auditor,Accounting;Excel,BBS
+Tourism,Tourism Manager,Communication;Hospitality,BHM
+Arts,Psychologist,Empathy;Communication,BA Psychology
+Medical,Specialist,Biology;Diagnosis,MBBS
+Media,Journalist,Editing;Writing,BJMC
+Engineering,Civil Engineer,Math;Physics,Civil Engineering
+IT,Backend Developer,Statistics;AI,BSc CSIT
+Engineering,Tech Engineer,C++;Electronics,Computer Engineering
+IT,App Developer,HTML;CSS;JS,BCA
+Engineering,Project Engineer,Planning;Management,Civil Engineering
+Media,Editor,Writing;News,BJMC
+Business,Entrepreneur,Management;Strategy,BBA
+Business,Manager,Leadership;Communication,BBA
+Media,Editor,Editing;Writing,BJMC
+Engineering,Site Engineer,Planning;Management,Civil Engineering
+Medical,Nursing Assistant,Support;Care,BSc Nursing
+Engineering,Site Engineer,Construction;Planning,Civil Engineering
+Engineering,Technician,Electrical;Repair,Electrical Engineering
+IT,Network Engineer,Cloud;Linux,BIT
+Business,Auditor,Finance;Math,BBS
+Arts,Researcher,Helping;Communication,BA Sociology
+Medical,Nurse,Support;Care,BSc Nursing
+Medical,Surgeon,Biology;Research,MBBS
+IT,Network Engineer,Troubleshooting;Hardware,BIT
+IT,Data Analyst,ML;Python,BSc CSIT
+IT,Cloud Engineer,Networking;Security,BIT
+Arts,Therapist,Research;Thinking,BA Psychology
+IT,Software Developer,Coding;Logic,BCA
+Business,HR Manager,Management;Strategy,BBA
+Business,CEO,Sales;Creativity,BBA
+Arts,Researcher,Analysis;Study,BA Sociology
+Medical,Pharmacist,Chemistry;Research,BPharmacy
+Engineering,Control Engineer,Energy;Systems,Electrical Engineering
+Business,Resort Manager,Management;Tourism,BHM
+Engineering,Mechanical Engineer,Engines;Design,Mechanical Engineering
+Engineering,Automobile Engineer,Engines;Design,Mechanical Engineering
+Business,Finance Officer,Audit;Analysis,BBS
+IT,Data Analyst,Python;DB,BSc CSIT
+Engineering,Automobile Engineer,Engines;Design,Mechanical Engineering
+IT,Embedded Engineer,Coding;Algorithms,Computer Engineering
+Medical,Specialist,Biology;Research,MBBS
+Arts,Community Worker,Social;Helping,BA Sociology
+Engineering,Power Engineer,Circuits;Math,Electrical Engineering
+IT,Data Analyst,ML;Python,BSc CSIT
+IT,Backend Developer,ML;Python,BSc CSIT
+Medical,Specialist,Biology;Precision,MBBS
+Engineering,Site Engineer,Math;Physics,Civil Engineering
+IT,Tech Engineer,Coding;Algorithms,Computer Engineering
+Business,Entrepreneur,Sales;Creativity,BBA
+Medical,Nurse,Compassion;Health,BSc Nursing
+Medical,Staff Nurse,Patient Care;Biology,BSc Nursing
+IT,System Analyst,Database;Networking,BIT
+Psychology,Counselor,Empathy;Communication,BA Psychology
+Tourism,Hotel Manager,Communication;Hospitality,BHM
+Business,Entrepreneur,Management;Strategy,BBA
+IT,Data Analyst,ML;Python,BSc CSIT
+Business,CEO,Sales;Creativity,BBA
+Medical,Specialist,Biology;Chemistry,MBBS
+Engineering,Control Engineer,Energy;Systems,Electrical Engineering
+Arts,Psych Analyst,Listening;Support,BA Psychology
+Law,Advocate,Reading;Writing,BALLB
+Engineering,Civil Engineer,Construction;Planning,Civil Engineering
+Engineering,Project Engineer,Construction;Planning,Civil Engineering
+Arts,Social Worker,Helping;Communication,BA Sociology
+IT,Software Engineer,Programming;Logic,Computer Engineering
+Psychology,Psychologist,Empathy;Communication,BA Psychology
+IT,Tech Engineer,Programming;Logic,Computer Engineering
+Arts,Therapist,Listening;Support,BA Psychology
+Medical,Surgeon,Biology;Diagnosis,MBBS
+Engineering,Structural Engineer,Planning;Management,Civil Engineering
+Engineering,Structural Engineer,Math;Design,Civil Engineering
+Tourism,Hotel Manager,Communication;Service,BHM
+Law,Lawyer,Reading;Writing,BALLB
+Arts,Psychologist,Listening;Support,BA Psychology
+Medical,Nursing Assistant,Support;Care,BSc Nursing
+Social,Community Worker,Research;Logic,BA Sociology
+Business,HR Manager,Management;Strategy,BBA
+Medical,Doctor,Biology;Diagnosis,MBBS
+Medical,Nurse,Patient Care;Biology,BSc Nursing
+Business,Bookkeeper,Accounts;Data,BBS
+Engineering,Structural Engineer,Planning;Management,Civil Engineering
+Medical,Pharmacy Assistant,Drugs;Knowledge,BPharmacy
+IT,System Analyst,Cloud;Linux,BIT
+Business,CEO,Leadership;Communication,BBA
+Engineering,Civil Engineer,Math;Design,Civil Engineering
+Medical,Physician,Biology;Diagnosis,MBBS
+Arts,Editor,Writing;Creativity,BJMC
+IT,Web Developer,Programming;Problem Solving,BCA
+IT,Software Developer,Debugging;Python,BCA
+Business,Marketing Executive,Leadership;Planning,BBM
+Arts,Researcher,Helping;Communication,BA Sociology
+Arts,Social Worker,Social;Helping,BA Sociology
+Media,Content Creator,Editing;Writing,BJMC
+Law,Legal Advisor,Debate;Law,BALLB
+IT,AI Engineer,Python;DB,BSc CSIT
+Engineering,Power Engineer,Electrical;Repair,Electrical Engineering
+Medical,Doctor,Biology;Precision,MBBS
+Business,Marketing Executive,Management;Strategy,BBM
+IT,Embedded Engineer,Programming;Logic,Computer Engineering
+Arts,Content Creator,Writing;Communication,BJMC
+Engineering,Mechanical Engineer,CAD;Mechanics,Mechanical Engineering
+IT,App Developer,Debugging;Python,BCA
+Engineering,Machine Operator,Physics;Design,Mechanical Engineering
+Engineering,Electrical Engineer,Automation;Math,Electrical Engineering
+Engineering,System Developer,Coding;Algorithms,Computer Engineering
+Engineering,Mechanical Engineer,CAD;Mechanics,Mechanical Engineering
+IT,Web Developer,Coding;Logic,BCA
+IT,AI Engineer,Python;Statistics,BSc CSIT
+Business,Manager,Business;Innovation,BBA
+Tourism,Hotel Manager,Communication;Service,BHM
+Law,Lawyer,Reading;Writing,BALLB
+Engineering,Software Engineer,Hardware;Software,Computer Engineering
+Medical,Pharmacist,Chemistry;Research,BPharmacy
+Engineering,Automobile Engineer,Physics;Design,Mechanical Engineering
+Arts,Psychologist,Research;Thinking,BA Psychology
+Social,NGO Worker,Analysis;Study,BA Sociology
+Engineering,Technician,Automation;Math,Electrical Engineering
+Medical,Pharmacist,Drugs;Knowledge,BPharmacy
+Social,NGO Worker,Research;Logic,BA Sociology
+Arts,Psych Analyst,Listening;Support,BA Psychology
+Medical,Drug Specialist,Chemistry;Research,BPharmacy
+Business,Accountant,Accounts;Data,BBS
+Engineering,Project Engineer,Construction;Planning,Civil Engineering
+Social,NGO Worker,Helping;Communication,BA Sociology
+IT,Programmer,Debugging;Python,BCA
+Engineering,Mechanical Engineer,CAD;Mechanics,Mechanical Engineering
+Psychology,Therapist,Listening;Support,BA Psychology
+IT,Software Developer,Coding;Logic,BCA
+Law,Lawyer,Law;Analysis,BALLB
+Engineering,Mechanical Engineer,CAD;Mechanics,Mechanical Engineering
+Business,Business Manager,Sales;Creativity,BBM
+Business,Supervisor,Management;Strategy,BBM
+IT,Network Engineer,Database;Networking,BIT
+IT,Backend Developer,Python;Statistics,BSc CSIT
+Media,Journalist,Writing;Creativity,BJMC
+Psychology,Therapist,Research;Thinking,BA Psychology
+IT,Backend Developer,Python;DB,BSc CSIT
+Engineering,Structural Engineer,Construction;Planning,Civil Engineering
+Business,Finance Officer,Accounts;Data,BBS
+Medical,Healthcare Worker,Patient Care;Biology,BSc Nursing
+Medical,Surgeon,Biology;Research,MBBS
+Medical,Nursing Assistant,Care;Medical Knowledge,BSc Nursing
+Medical,Doctor,Biology;Research,MBBS
+Medical,Nursing Assistant,Patient Care;Biology,BSc Nursing
+Medical,Healthcare Worker,Patient Care;Biology,BSc Nursing
+Tourism,Tourism Manager,Customer Service;Management,BHM
+Medical,Nurse,Care;Medical Knowledge,BSc Nursing
+Medical,Physician,Biology;Precision,MBBS
+Arts,Editor,Writing;Communication,BJMC
+Engineering,Machine Operator,Mechanics;Tools,Mechanical Engineering
+Medical,Specialist,Biology;Research,MBBS
+Business,Business Manager,Leadership;Planning,BBM
+Tourism,Receptionist,Communication;Hospitality,BHM
+Medical,Specialist,Biology;Research,MBBS
+Medical,Nurse,Compassion;Health,BSc Nursing
+Business,HR Manager,Leadership;Communication,BBA
+Medical,Surgeon,Biology;Precision,MBBS
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+Medical,Pharma Researcher,Drugs;Knowledge,BPharmacy
+Engineering,Control Engineer,Electrical;Repair,Electrical Engineering
+Medical,Physician,Biology;Precision,MBBS
+Business,Entrepreneur,Leadership;Communication,BBA
+IT,System Analyst,Troubleshooting;Hardware,BIT
+Engineering,Project Engineer,Construction;Planning,Civil Engineering
+Arts,Social Worker,Social;Helping,BA Sociology
+Business,Hotel Manager,Communication;Service,BHM
+Business,Supervisor,Management;Strategy,BBM
+IT,Software Engineer,Coding;Algorithms,Computer Engineering
+IT,Network Engineer,Cloud;Linux,BIT
+Medical,Pharma Researcher,Chemistry;Analysis,BPharmacy
+Medical,Nurse,Compassion;Health,BSc Nursing
+Law,Lawyer,Debate;Law,BALLB
+Business,Marketing Executive,Communication;Planning,BBM
+IT,App Developer,HTML;CSS;JS,BCA
+Engineering,Machine Operator,Engines;Design,Mechanical Engineering
+Law,Legal Advisor,Law;Analysis,BALLB
+Arts,Content Creator,Editing;Writing,BJMC
+Engineering,Software Engineer,Coding;Algorithms,Computer Engineering
+Medical,Pharmacy Assistant,Drugs;Knowledge,BPharmacy
+Arts,Therapist,Analysis;Listening,BA Psychology
+Medical,Nurse,Care;Medical Knowledge,BSc Nursing
+Business,Business Manager,Leadership;Planning,BBM
+Business,Business Manager,Communication;Planning,BBM
+Medical,Nursing Assistant,Care;Medical Knowledge,BSc Nursing
+Arts,Counselor,Listening;Support,BA Psychology
+Business,Bookkeeper,Accounts;Data,BBS
+Engineering,Project Engineer,Math;Physics,Civil Engineering
+IT,Cloud Engineer,Networking;Security,BIT
+Medical,Nursing Assistant,Care;Medical Knowledge,BSc Nursing
+Media,Journalist,Writing;Communication,BJMC
+Engineering,Electrical Engineer,Electrical;Repair,Electrical Engineering
+IT,Web Developer,HTML;CSS;JS,BCA
+Arts,Journalist,Editing;Writing,BJMC
+Engineering,Technician,Circuits;Math,Electrical Engineering
+Business,Supervisor,Leadership;Planning,BBM
+Engineering,Control Engineer,Electrical;Repair,Electrical Engineering
+Arts,Counselor,Listening;Support,BA Psychology
+Engineering,Project Engineer,Math;Design,Civil Engineering
+Tourism,Receptionist,Communication;Service,BHM
+Medical,Nurse,Patient Care;Biology,BSc Nursing
+Arts,Therapist,Empathy;Communication,BA Psychology
+Engineering,Technician,Energy;Systems,Electrical Engineering
+Business,CEO,Business;Innovation,BBA
+Engineering,Site Engineer,Construction;Planning,Civil Engineering
+Engineering,Control Engineer,Electrical;Repair,Electrical Engineering
+Business,Marketing Executive,Sales;Creativity,BBM
+Medical,Staff Nurse,Support;Care,BSc Nursing
+Media,Reporter,Writing;News,BJMC
+Psychology,Psych Analyst,Listening;Support,BA Psychology
+Arts,Counselor,Analysis;Listening,BA Psychology
+Engineering,Mechanical Engineer,CAD;Mechanics,Mechanical Engineering
+Medical,Nurse,Compassion;Health,BSc Nursing
+Engineering,Mechanical Engineer,Physics;Design,Mechanical Engineering
+Psychology,Psych Analyst,Research;Thinking,BA Psychology
+IT,AI Engineer,Python;DB,BSc CSIT
+Engineering,Civil Engineer,Construction;Planning,Civil Engineering
+Medical,Pharma Researcher,Chemistry;Research,BPharmacy
+Engineering,Automobile Engineer,Mechanics;Tools,Mechanical Engineering
+IT,System Analyst,Database;Networking,BIT
+Arts,Content Creator,Editing;Writing,BJMC
+IT,Network Engineer,Networking;Security,BIT
+Engineering,Machine Operator,Mechanics;Tools,Mechanical Engineering
+Engineering,Embedded Engineer,Hardware;Software,Computer Engineering
+Law,Advocate,Law;Communication,BALLB
+Medical,Healthcare Worker,Support;Care,BSc Nursing
+IT,Software Developer,HTML;CSS;JS,BCA
+Business,HR Manager,Sales;Creativity,BBA
+Engineering,System Developer,C++;Electronics,Computer Engineering
+Engineering,Power Engineer,Energy;Systems,Electrical Engineering
+Law,Judge,Debate;Law,BALLB
+Business,Bookkeeper,Accounts;Data,BBS
+Medical,Healthcare Worker,Compassion;Health,BSc Nursing
+Medical,Pharmacist,Chemistry;Medicine,BPharmacy
+Arts,Social Worker,Helping;Communication,BA Sociology
+Engineering,Structural Engineer,Construction;Planning,Civil Engineering
+Engineering,Site Engineer,Planning;Management,Civil Engineering
+Business,CEO,Business;Innovation,BBA
+Business,HR Manager,Sales;Creativity,BBA
+Arts,Researcher,Helping;Communication,BA Sociology
+Tourism,Receptionist,Customer Service;Management,BHM
+Medical,Pharmacy Assistant,Chemistry;Analysis,BPharmacy
+Business,Entrepreneur,Management;Strategy,BBA
+IT,Cloud Engineer,Troubleshooting;Hardware,BIT
+IT,Network Engineer,Troubleshooting;Hardware,BIT
+Business,Supervisor,Management;Strategy,BBM
+Tourism,Hotel Manager,Management;Tourism,BHM
+IT,App Developer,Coding;Logic,BCA
+Law,Advocate,Law;Communication,BALLB
+Medical,Doctor,Biology;Research,MBBS
+Business,CEO,Leadership;Communication,BBA
+Engineering,Tech Engineer,Coding;Algorithms,Computer Engineering
+Engineering,Embedded Engineer,Hardware;Software,Computer Engineering
+Business,Supervisor,Management;Strategy,BBM
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+Engineering,System Developer,C++;Electronics,Computer Engineering
+Psychology,Psych Analyst,Listening;Support,BA Psychology
+Medical,Pharma Researcher,Drugs;Knowledge,BPharmacy
+IT,IT Specialist,Troubleshooting;Hardware,BIT
+IT,Backend Developer,Python;DB,BSc CSIT
+IT,App Developer,HTML;CSS;JS,BCA
+Business,Team Leader,Communication;Planning,BBM
+Medical,Nursing Assistant,Care;Medical Knowledge,BSc Nursing
+Engineering,Structural Engineer,Math;Physics,Civil Engineering
+IT,Software Developer,Programming;Problem Solving,BCA
+Business,Business Manager,Leadership;Planning,BBM
+Medical,Doctor,Biology;Diagnosis,MBBS
+Business,Finance Officer,Audit;Analysis,BBS
+Medical,Nurse,Compassion;Health,BSc Nursing
+Business,Supervisor,Management;Strategy,BBM
+Engineering,Design Engineer,CAD;Mechanics,Mechanical Engineering
+Engineering,Mechanical Engineer,CAD;Mechanics,Mechanical Engineering
+Business,Entrepreneur,Management;Strategy,BBA
+Psychology,Therapist,Listening;Support,BA Psychology
+IT,App Developer,Debugging;Python,BCA
+Medical,Specialist,Biology;Precision,MBBS
+Medical,Pharma Researcher,Chemistry;Medicine,BPharmacy
+Engineering,Automobile Engineer,Mechanics;Tools,Mechanical Engineering
+Law,Judge,Debate;Law,BALLB
+Law,Lawyer,Law;Analysis,BALLB
+Business,Supervisor,Management;Strategy,BBM
+Social,Community Worker,Helping;Communication,BA Sociology
+Medical,Specialist,Biology;Diagnosis,MBBS
+IT,Web Developer,Programming;Problem Solving,BCA
+Engineering,Electrical Engineer,Electrical;Repair,Electrical Engineering
+Engineering,Machine Operator,CAD;Mechanics,Mechanical Engineering
+Business,Accountant,Finance;Math,BBS
+Medical,Specialist,Biology;Research,MBBS
+Arts,Community Worker,Analysis;Study,BA Sociology
+Psychology,Psychologist,Listening;Support,BA Psychology
+IT,System Analyst,Database;Networking,BIT
+Business,HR Manager,Business;Innovation,BBA
+Business,Tourism Manager,Customer Service;Management,BHM
+Medical,Drug Specialist,Chemistry;Medicine,BPharmacy
+Engineering,Machine Operator,Physics;Design,Mechanical Engineering
+Business,Marketing Executive,Communication;Planning,BBM
+Business,Finance Officer,Finance;Math,BBS
+IT,Tech Engineer,Hardware;Software,Computer Engineering
+Law,Advocate,Law;Analysis,BALLB
+IT,Software Engineer,C++;Electronics,Computer Engineering
+Business,Receptionist,Communication;Service,BHM
+IT,Web Developer,Coding;Logic,BCA
+Business,Finance Officer,Accounts;Data,BBS
+IT,Network Engineer,Networking;Security,BIT
+Engineering,Project Engineer,Math;Design,Civil Engineering
+Medical,Staff Nurse,Patient Care;Biology,BSc Nursing
+Medical,Healthcare Worker,Compassion;Health,BSc Nursing
+IT,Cloud Engineer,Networking;Security,BIT
+IT,Network Engineer,Networking;Security,BIT
+Engineering,Tech Engineer,C++;Electronics,Computer Engineering
+Business,CEO,Management;Strategy,BBA
+Law,Legal Advisor,Debate;Law,BALLB
+Engineering,Control Engineer,Energy;Systems,Electrical Engineering
+IT,Backend Developer,Python;Statistics,BSc CSIT
+Social,Researcher,Helping;Communication,BA Sociology
+IT,Cloud Engineer,Troubleshooting;Hardware,BIT
+Psychology,Psych Analyst,Analysis;Listening,BA Psychology
+IT,App Developer,HTML;CSS;JS,BCA
+Business,Auditor,Finance;Math,BBS
+Law,Advocate,Law;Analysis,BALLB
+Engineering,Software Engineer,Coding;Algorithms,Computer Engineering
+IT,AI Engineer,Python;DB,BSc CSIT
