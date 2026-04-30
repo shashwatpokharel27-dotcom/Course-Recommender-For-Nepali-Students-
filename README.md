@@ -5,7 +5,7 @@
 ## 📁 Project Structure
 
 ```text
-/Shashwat-AI
+
 │
 ├── app.py                  # FastAPI Backend (Main Entry Point)
 ├── requirements.txt        # Python dependencies
@@ -76,7 +76,7 @@ Open your browser and navigate to `[http://127.0.0.1:8000](http://127.0.0.1:8000
 ---
 ## 🌟 Key Features
 
-*   **Hybrid Filtering:** Checks TU/KU/PU academic eligibility (GPA/Stream) before applying AI logic.
+*   **Hybrid Filtering:** Checks RJU/TU/KU/PU academic eligibility (GPA/Stream) before applying AI logic.
 *   **Dynamic UI:** The `suggestions.json` file automatically populates the autocomplete fields in the frontend.
 *   **Clean Architecture:** Separates model training logic (`main.ipynb`) from the production server (`app.py`).
 
