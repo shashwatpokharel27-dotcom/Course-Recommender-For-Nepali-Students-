@@ -1,6 +1,6 @@
 # 🎓 Shashwat AI:Course Recommender For Nepali Students
 
-**Shashwat AI** is a data-driven career guidance tool designed for Nepali +2 students. It uses a hybrid approach—combining academic eligibility rules with a Machine Learning model—to recommend undergraduate courses based on GPA, stream, interests, and career goals.
+It is a data-driven career guidance tool designed for Nepali +2 students. It uses a hybrid approach—combining academic eligibility rules with a Machine Learning model—to recommend undergraduate courses based on GPA, stream, interests, and career goals.
 
 ## 📁 Project Structure
 
