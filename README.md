@@ -25,26 +25,31 @@
 
 ## 🛠️ Setup and Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/shashwatpokharel27/shashwatpokharel27-dotcom.git
-   cd shashwatpokharel27-dotcom
-   ```
-2. **Environment Setup:**
-   ```bash
-   python -m venv myenv
-     # On Windows
-   myenv\Scripts\activate
-   
-   # On Mac/Linux
-   source myenv/bin/activate
-  ```
+### 1. Clone the Repository
+```bash
+git clone https://github.com/shashwatpokharel27/shashwatpokharel27-dotcom.git
+cd shashwatpokharel27-dotcom
+```
 
-**Install Dependencies:**
+### 2. Environment Setup
+```bash
+python -m venv myenv
+```
+
+#### On Windows
+```bash
+myenv\Scripts\activate
+```
+
+#### On Mac/Linux
+```bash
+source myenv/bin/activate
+```
+
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
-
----
+```
 
 ## 🧠 Workflow: Generating Required Files
 
