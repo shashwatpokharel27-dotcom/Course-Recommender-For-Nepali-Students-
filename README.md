@@ -40,10 +40,9 @@
    source myenv/bin/activate
   ```
 
-3. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+**Install Dependencies:**
+```bash
+pip install -r requirements.txt
 
 ---
 
