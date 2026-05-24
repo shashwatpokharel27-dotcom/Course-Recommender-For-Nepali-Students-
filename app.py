@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 import joblib,json
 import os
+import sqlite3
 
 #creating an instance of the FastAPI application
 app = FastAPI(title="Nepal Course Recommender Pro", version="1.0")
@@ -84,6 +85,18 @@ class StudentRequest(BaseModel):
         elif self.budget_amount >= 500000: return "Mid"
         else: return "Low"
 
+def get_books_from_db(course_name: str):
+    """Helper to fetch books for a specific course from SQLite"""
+    conn = sqlite3.connect('recommender.db')
+    cursor = conn.cursor()
+    # Normalize course name to lowercase to match DB
+    cursor.execute("SELECT book_title, image_url FROM books WHERE course_name = ?", (course_name.lower(),))
+    rows = cursor.fetchall()
+    conn.close()
+    
+    # Return as list of dictionaries
+    return [{"title": row[0], "image": row[1]} for row in rows]
+
 
 @app.post("/predict")
 def predict_course(data: StudentRequest):
@@ -103,14 +116,23 @@ def predict_course(data: StudentRequest):
     else:
         raw_scores = {course: 0.5 for course in COURSES_DB.keys()}
 
+
     final_recommendations = []
     for course in eligible_list:
         score = raw_scores.get(course, 0)
-        final_recommendations.append({"course": course.upper(), "confidence": round(score * 100, 2)})
+        # Fetch books for this course
+        books = get_books_from_db(course)
+        final_recommendations.append({
+            "course": course.upper(), 
+            "confidence": round(score * 100, 2),
+            "books": books # Injected directly into the recommendation object
+        })
+
 
     final_recommendations = sorted(final_recommendations, key=lambda x: x["confidence"], reverse=True)
 
     return {"student_stream": data.stream, "recommendations": final_recommendations[:3]}
+
 
 # Serving Json File 
 
@@ -121,3 +143,8 @@ async def get_suggestions():
             return json.load(f)
     except FileNotFoundError: 
         return {"error": "Suggestions file not found. Run your export script."}
+    
+
+@app.get("/books")
+async def read_books():
+    return FileResponse('static/books.html')

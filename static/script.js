@@ -1,32 +1,36 @@
 // --- 1. INITIALIZATION ---
 document.addEventListener('DOMContentLoaded', async () => {
-    console.log("Fetching suggestions...");
+    console.log("🚀 Initialization: Fetching suggestions from FastAPI...");
 
     try {
         const response = await fetch('/suggestions');
-        if (!response.ok) throw new Error("Failed to fetch");
+        if (!response.ok) throw new Error(`Server returned status: ${response.status}`);
 
         const data = await response.json();
+        console.log("📦 Suggestion Catalog Loaded:", data);
 
+        // Map form IDs to the exact keys returned by your FastAPI JSON
         const inputConfigs = [
             { id: 'interest', chips: 'interest-chips', key: 'interest' },
-            { id: 'goal', chips: 'goal-chips', key: 'career goal' },
+            { id: 'goal', chips: 'goal-chips', key: 'career goal' }, // Matches 'career goal' space key
             { id: 'skills', chips: 'skills-chips', key: 'skills' }
         ];
 
         inputConfigs.forEach(config => {
             if (data[config.key]) {
                 setupAutocomplete(config, data[config.key]);
+            } else {
+                console.error(`❌ Error: Key "${config.key}" not found in suggestions JSON.`);
             }
         });
 
     } catch (err) {
-        console.error("Error:", err);
+        console.error("❌ Critical Initialization Error:", err);
     }
 });
 
 
-// --- 2. MAIN AUTOCOMPLETE FUNCTION ---
+// --- 2. MAIN AUTOCOMPLETE LAYER ---
 function setupAutocomplete(config, categoryData) {
     const input = document.getElementById(config.id);
     const chipContainer = document.getElementById(config.chips);
@@ -36,31 +40,43 @@ function setupAutocomplete(config, categoryData) {
     const allValues = categoryData.all || [];
     const topValues = categoryData.top || allValues.slice(0, 5);
 
-    // Create suggestion box
+    // Create custom dropdown box container dynamically
     const suggestionBox = document.createElement('div');
-    suggestionBox.className = 'suggestion-box';
+    suggestionBox.className = 'suggestion-box hidden'; // Kept hidden on initial load
     input.parentNode.appendChild(suggestionBox);
 
-    // --- SHOW DEFAULT TOP VALUES ---
-    renderSuggestions(topValues, suggestionBox, input);
+    // Show suggestions when user focuses inside the input field
+    input.addEventListener('focus', () => {
+        const query = input.value.toLowerCase().trim();
+        suggestionBox.classList.remove('hidden');
+        
+        if (query === "") {
+            renderSuggestions(topValues, suggestionBox, input, chipContainer);
+        } else {
+            const filtered = allValues.filter(item =>
+                item.toLowerCase().includes(query)
+            ).slice(0, 8);
+            renderSuggestions(filtered, suggestionBox, input, chipContainer);
+        }
+    });
 
-    // --- INPUT EVENT (DYNAMIC FILTER) ---
+    // Filter list context interactively on keystroke input
     input.addEventListener('input', () => {
         const query = input.value.toLowerCase().trim();
 
         if (query === "") {
-            renderSuggestions(topValues, suggestionBox, input);
+            renderSuggestions(topValues, suggestionBox, input, chipContainer);
             return;
         }
 
         const filtered = allValues.filter(item =>
             item.toLowerCase().includes(query)
-        ).slice(0, 8); // limit results
+        ).slice(0, 8);
 
-        renderSuggestions(filtered, suggestionBox, input);
+        renderSuggestions(filtered, suggestionBox, input, chipContainer);
     });
 
-    // --- CHIP GENERATION (TOP VALUES) ---
+    // Populate the quick-select chip UI bar
     chipContainer.innerHTML = '';
     topValues.forEach(val => {
         const chip = document.createElement('span');
@@ -70,24 +86,36 @@ function setupAutocomplete(config, categoryData) {
         chip.onclick = () => {
             input.value = val;
             suggestionBox.innerHTML = '';
+            suggestionBox.classList.add('hidden');
             setActiveChip(chipContainer, chip);
         };
 
         chipContainer.appendChild(chip);
     });
 
-    // Hide suggestions when clicked outside
+    // Close dropdown boxes securely when user clicks outside the element zone
     document.addEventListener('click', (e) => {
         if (!input.contains(e.target) && !suggestionBox.contains(e.target)) {
             suggestionBox.innerHTML = '';
+            suggestionBox.classList.add('hidden');
         }
     });
 }
 
 
-// --- 3. RENDER SUGGESTIONS ---
-function renderSuggestions(list, container, input) {
+// --- 3. RENDER SUGGESTION ENGINE ---
+function renderSuggestions(list, container, input, chipContainer) {
     container.innerHTML = '';
+    
+    if (list.length === 0) {
+        const noResult = document.createElement('div');
+        noResult.className = 'suggestion-item';
+        noResult.style.color = 'var(--text-muted)';
+        noResult.style.cursor = 'default';
+        noResult.innerText = "No matches found";
+        container.appendChild(noResult);
+        return;
+    }
 
     list.forEach(item => {
         const div = document.createElement('div');
@@ -97,6 +125,10 @@ function renderSuggestions(list, container, input) {
         div.onclick = () => {
             input.value = item;
             container.innerHTML = '';
+            container.classList.add('hidden');
+
+            // Synchronize chip highlight state if selected via drop list option
+            matchChipToValue(chipContainer, item);
         };
 
         container.appendChild(div);
@@ -104,14 +136,26 @@ function renderSuggestions(list, container, input) {
 }
 
 
-// --- 4. CHIP ACTIVE STATE ---
+// --- 4. CHIP ACTIVE STATE UTILITIES ---
 function setActiveChip(container, activeChip) {
     container.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
     activeChip.classList.add('active');
 }
 
+function matchChipToValue(container, value) {
+    container.querySelectorAll('.chip').forEach(chip => {
+        if (chip.innerText.toLowerCase() === value.toLowerCase()) {
+            chip.classList.add('active');
+        } else {
+            chip.classList.remove('active');
+        }
+    });
+}
 
-// --- 5. FORM SUBMISSION ---
+
+// --- 5. FORM SUBMISSION PIPELINE ---
+window.latestRecommendations = [];
+
 document.getElementById('recommenderForm').addEventListener('submit', async (e) => {
     e.preventDefault();
 
@@ -146,23 +190,43 @@ document.getElementById('recommenderForm').addEventListener('submit', async (e) 
         const data = await response.json();
 
         if (!response.ok) {
-            throw new Error(data.detail || "Prediction failed");
+            throw new Error(data.detail || "Prediction system execution failed");
         }
 
         cardsWrapper.innerHTML = '';
-        eligibilityInfo.innerText =
-            `Found ${data.eligible_courses_count} courses. Matches for your profile:`;
+        window.latestRecommendations = data.recommendations;
+        
+        // Render Action Banner Context Information
+        eligibilityInfo.innerHTML = `
+            <p style="margin-bottom: 1rem; color: var(--text-muted);">Found ${data.recommendations.length} ideal career paths for your profile:</p>
+            <div class="action-banner" style="
+                background: rgba(99, 102, 241, 0.08); 
+                border-left: 4px solid #6366f1; 
+                padding: 12px 16px; 
+                border-radius: 8px; 
+                margin-bottom: 1.5rem; 
+                font-size: 0.9rem; 
+                line-height: 1.4;
+                color: #4f46e5;
+                font-weight: 500;
+                animation: fadeIn 0.5s ease-out;
+            ">
+                💡 <strong>What's next?</strong> Pick a course below to see the essential books, you should read <em>before</em> your first day of college!
+            </div>
+        `;
 
-        data.recommendations.forEach(rec => {
+        // Render newly maximized match recommendation row elements
+        data.recommendations.forEach((rec, index) => {
             const card = document.createElement('div');
             card.className = 'result-card';
+            card.setAttribute('onclick', `handleCardClick(${index})`);
 
             const score = rec.confidence || rec.score || 0;
 
             card.innerHTML = `
-                <div class="course-info">
-                    <div class="course-name">${rec.course}</div>
-                    <div class="meta-info">AI Analysis Score</div>
+                <div class="course-info" style="text-align: left;">
+                    <div class="course-name" style="color: #1e1b4b; font-weight: 800;">${rec.course.toUpperCase()}</div> 
+                    <div class="meta-info" style="color: var(--primary); font-weight: 600; margin-top: 8px; font-size: 1.05rem;">View Books before starting course →</div>
                 </div>
                 <div class="confidence-badge">${Math.round(score)}% Match</div>
             `;
@@ -182,3 +246,14 @@ document.getElementById('recommenderForm').addEventListener('submit', async (e) 
         submitBtn.innerText = "Generate AI Recommendations";
     }
 });
+
+
+// --- 6. GLOBAL ROUTER REDIRECT ---
+window.handleCardClick = function(index) {
+    const selectedData = window.latestRecommendations[index];
+    if (selectedData) {
+        localStorage.setItem('selectedCourse', selectedData.course.toUpperCase());
+        localStorage.setItem('courseBooks', JSON.stringify(selectedData.books || []));
+        window.location.href = '/books';
+    }
+};

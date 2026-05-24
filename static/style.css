@@ -177,46 +177,63 @@ button:disabled {
     opacity: 0.7;
 }
 
-/* RESULTS */
-.cards-grid {
-    display: grid;
-    gap: 1rem;
+/* --- ENLARGED HIGH-IMPACT RESULTS AREA --- */
+.cards-grid, #cards-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1.75rem; /* Spacious separation between deep content wrappers */
     margin-top: 1rem;
 }
 
 .result-card {
     background: white;
-    padding: 1.3rem;
-    border-radius: 12px;
-    border-left: 5px solid var(--primary);
+    padding: 2.5rem 3rem !important; /* Huge internal padding adjustments */
+    border-radius: 16px !important;    /* Sleek, prominent rounded corners */
+    border: 1px solid rgba(99, 102, 241, 0.12) !important;
+    border-left: 6px solid var(--primary) !important; /* Thick accent indicator strip */
     display: flex;
     justify-content: space-between;
     align-items: center;
-    transition: 0.2s;
+    min-height: 140px;                 /* Strong physical layout footprint */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), 
+                box-shadow 0.3s ease, 
+                border-color 0.3s ease !important;
 }
 
+/* Dynamic Premium Hover Interaction Engine */
 .result-card:hover {
-    transform: translateX(6px);
-    box-shadow: 0 10px 18px rgba(0,0,0,0.08);
+    transform: translateY(-6px); /* Clean upward card lift vector */
+    box-shadow: 0 20px 40px rgba(99, 102, 241, 0.12); /* Ultra-soft modern drop shadow */
+    border-color: rgba(99, 102, 241, 0.4) !important;
+    background-color: #FAFBFE;
 }
 
+/* Maximized Headline Scale Course Typography */
 .course-name {
-    font-weight: 700;
-    font-size: 1.1rem;
+    font-weight: 800 !important;
+    font-size: 1.85rem !important; 
+    letter-spacing: -0.02em; /* Tight corporate tech alignment profile */
+    color: #1E1B4B; /* Distinct dark contrast text */
+    margin-bottom: 6px;
 }
 
-.confidence-badge {
-    background: rgba(16,185,129,0.12);
-    color: var(--success);
-    padding: 0.45rem 0.9rem;
-    border-radius: 20px;
-    font-size: 0.85rem;
-    font-weight: 700;
-}
-
+/* Action Navigation Hint Links */
 .meta-info {
-    font-size: 0.85rem;
-    color: var(--text-muted);
+    font-size: 1.05rem !important;
+    color: var(--primary) !important;
+    font-weight: 600;
+}
+
+/* Scale Up Confidence Badges */
+.confidence-badge {
+    background: rgba(99, 102, 241, 0.08) !important; /* Colored cleanly to match app tone */
+    color: var(--primary) !important;
+    padding: 12px 24px !important; /* Thick luxury badge structure spacing */
+    border-radius: 10px !important;
+    font-size: 1.25rem !important;
+    font-weight: 700;
+    white-space: nowrap;
 }
 
 /* LOADING */
@@ -256,7 +273,49 @@ button:disabled {
     display: none !important;
 }
 
-/* MOBILE */
+/* PREPARATION BOOKCASE SECTION */
+.books-container {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+}
+
+.books-container h4 {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    margin-bottom: 0.8rem;
+}
+
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    gap: 0.8rem;
+}
+
+.book-item {
+    text-align: center;
+}
+
+.book-item img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+}
+
+.book-item p {
+    font-size: 0.7rem;
+    margin-top: 0.4rem;
+    line-height: 1.2;
+    color: var(--text-main);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+/* RESPONSIVE MEDIA BREAKPOINTS */
 @media (max-width: 768px) {
     .main-content {
         grid-template-columns: 1fr;
@@ -268,5 +327,16 @@ button:disabled {
 
     .header h1 {
         font-size: 2rem;
+    }
+    
+    .result-card {
+        padding: 1.75rem 1.5rem !important; /* Graceful scaling down on mobile */
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    
+    .course-name {
+        font-size: 1.5rem !important;
     }
 }
