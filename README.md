@@ -1,6 +1,6 @@
 # 🎓 Shashwat AI:Course Recommender For Nepali Students
 
-It is a data-driven career guidance tool designed for Nepali +2 students. It uses a hybrid approach—combining academic eligibility rules with a Machine Learning model—to recommend undergraduate courses based on GPA, stream, interests, and career goals.
+It is a data-driven career guidance tool designed for Nepali +2 students. It uses a hybrid approach—combining academic eligibility rules with a Machine Learning model—to recommend undergraduate courses based on GPA, stream, interests, and career goals. It also suggests books to read before starting any specific recommended course.
 
 ## 📁 Project Structure
 
@@ -15,10 +15,12 @@ It is a data-driven career guidance tool designed for Nepali +2 students. It use
 │   ├── main.ipynb          # Notebook to train model & export JSON
 │   └── /Data               # Raw CSV datasets
 │
-├── /static                 # Frontend assets
-    ├── index.html          # Web UI
-    ├── script.js           # Frontend logic
-    └── style.css           # Styling
+├── /static                     # Client-Side Frontend Production Web UI
+    ├── index.html              # Primary recommendation dashboard interface
+    ├── script.js               # Asynchronous interactive frontend handler
+    ├── style.css               # Custom theme stylesheets & presentation layer
+    ├── books.html              # Pre-university reading resource interface
+    └── books.js                # Dynamic rendering layer for recommended text lookup
 ```
 
 ---
@@ -82,6 +84,7 @@ Open your browser and navigate to `[http://127.0.0.1:8000](http://127.0.0.1:8000
 
 *   **Hybrid Filtering:** Checks RJU/TU/KU/PU academic eligibility (GPA/Stream) before applying AI logic.
 *   **Dynamic UI:** The `suggestions.json` file automatically populates the autocomplete fields in the frontend.
+*   **Intelligent Book Recommendations:** Maps AI-predicted course results to a curated library of industry-standard textbooks and resources, providing students with immediate, relevant learning materials.
 *   **Clean Architecture:** Separates model training logic (`main.ipynb`) from the production server (`app.py`).
 
 ---
